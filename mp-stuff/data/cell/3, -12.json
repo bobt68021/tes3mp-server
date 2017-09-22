@@ -1,0 +1,264 @@
+{
+  "entry":{
+    "description":"3, -12"
+  },
+  "lastVisit":{
+    "bob":1506050772
+  },
+  "objectData":{
+    "241620-0":{
+      "equipment":{
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1
+        },
+        "17":{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"ordinator wander",
+      "stats":{
+        "fatigueCurrent":318,
+        "healthBase":181,
+        "fatigueBase":318,
+        "healthModified":181,
+        "fatigueModified":318,
+        "magickaModified":122,
+        "magickaBase":122,
+        "healthCurrent":181,
+        "magickaCurrent":122
+      },
+      "location":{
+        "rotX":0.010754380375147,
+        "posY":-94395.671875,
+        "posX":32078.673828125,
+        "posZ":577,
+        "rotZ":-0.048349380493164,
+        "rotY":0
+      }
+    },
+    "287791-0":{
+      "equipment":{
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1
+        },
+        "17":{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"ordinator wander",
+      "stats":{
+        "fatigueCurrent":318,
+        "healthBase":181,
+        "fatigueBase":318,
+        "healthModified":181,
+        "fatigueModified":318,
+        "magickaModified":122,
+        "magickaBase":122,
+        "healthCurrent":181,
+        "magickaCurrent":122
+      },
+      "location":{
+        "rotX":-0.78629899024963,
+        "posY":-97507.765625,
+        "posX":31656.818359375,
+        "posZ":577.00018310547,
+        "rotZ":1.4401552677155,
+        "rotY":0
+      }
+    },
+    "241618-0":{
+      "equipment":{
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"ebony mace",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1
+        },
+        "17":{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"ordinator wander",
+      "stats":{
+        "fatigueCurrent":318,
+        "healthBase":181,
+        "fatigueBase":318,
+        "healthModified":181,
+        "fatigueModified":318,
+        "magickaModified":122,
+        "magickaBase":122,
+        "healthCurrent":181,
+        "magickaCurrent":122
+      },
+      "location":{
+        "rotX":0.0010717436671257,
+        "posY":-94434.96875,
+        "posX":26517.16796875,
+        "posZ":1792.9996337891,
+        "rotZ":-0.057308197021484,
+        "rotY":0
+      }
+    }
+  },
+  "packets":{
+    "delete":[],
+    "actorList":["241618-0","241620-0","287791-0"],
+    "position":["241618-0","241620-0","287791-0"],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":["241618-0","241620-0","287791-0"],
+    "cellChangeFrom":[],
+    "trap":[],
+    "equipment":["241618-0","241620-0","287791-0"],
+    "container":[],
+    "lock":[],
+    "doorState":[],
+    "state":[],
+    "scale":[],
+    "spawn":[]
+  }
+}

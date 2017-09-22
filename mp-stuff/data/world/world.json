@@ -1,0 +1,68 @@
+{
+  "general":{
+    "currentMpNum":126
+  },
+  "topics":["ring","services","latest rumors","solstheim","someone in particular","little advice","popular potions","popular scrolls","practice your skills","pelagiad","balmora","caldera","ebonheart","vivec","specific place","dunmer","recover some gold","fargoth's hiding place","discerning eye"],
+  "kills":{
+    "db_assassin1b":2,
+    "melar baram":1,
+    "kwama forager":1,
+    "agronian guy":1,
+    "cliff racer":2,
+    "tanisie verethi":1,
+    "mudcrab":1,
+    "rat":1,
+    "cliff racer_diseased":2,
+    "fargoth":1
+  },
+  "journal":[{
+      "type":0,
+      "index":10,
+      "quest":"ms_fargothring",
+      "actorRefId":"fargoth"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"bm_rumors",
+      "actorRefId":"fargoth"
+    },{
+      "type":0,
+      "index":50,
+      "quest":"bm_rumors",
+      "actorRefId":"fargoth"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"ms_fargothring",
+      "actorRefId":"fargoth"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot"
+    },{
+      "type":0,
+      "index":20,
+      "quest":"ms_lookout",
+      "actorRefId":"hrisskar flat-foot"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"tr_dbattack",
+      "actorRefId":"db_assassin1b"
+    },{
+      "type":0,
+      "index":20,
+      "quest":"tr_dbattack",
+      "actorRefId":"db_assassin1b"
+    },{
+      "type":0,
+      "index":40,
+      "quest":"ms_lookout",
+      "actorRefId":"flora_treestump_unique"
+    }],
+  "customVariables":[],
+  "factionRanks":[],
+  "factionReputation":[],
+  "factionExpulsion":[]
+}

@@ -1,0 +1,27 @@
+{
+  "entry":{
+    "description":"0, -7"
+  },
+  "lastVisit":{
+    "Vakaria":1506048350,
+    "Bob":1506043996
+  },
+  "objectData":[],
+  "packets":{
+    "delete":[],
+    "spawn":[],
+    "scale":[],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":[],
+    "cellChangeFrom":[],
+    "trap":[],
+    "state":[],
+    "doorState":[],
+    "actorList":[],
+    "lock":[],
+    "position":[],
+    "equipment":[],
+    "container":[]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "entry":{
+    "description":"-4, -7"
+  },
+  "lastVisit":{
+    "Vakaria":1506050295,
+    "Konoroth":1506050295,
+    "bob":1506050293
+  },
+  "objectData":{
+    "0-95":{
+      "location":{
+        "rotX":-0.80466663837433,
+        "posY":-54377.5,
+        "posX":-26310.515625,
+        "posZ":1904.7810058594,
+        "rotZ":-2.7027943134308,
+        "rotY":0
+      },
+      "refId":"kwama forager"
+    },
+    "0-94":{
+      "location":{
+        "rotX":-0.31494334340096,
+        "posY":-52296.33984375,
+        "posX":-28893.76953125,
+        "posZ":839.54992675781,
+        "rotZ":1.8992130756378,
+        "rotY":0
+      },
+      "refId":"scrib"
+    }
+  },
+  "packets":{
+    "delete":[],
+    "actorList":["0-94","0-95"],
+    "position":["0-94","0-95"],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":[],
+    "cellChangeFrom":[],
+    "trap":[],
+    "equipment":[],
+    "container":[],
+    "lock":[],
+    "doorState":[],
+    "state":[],
+    "scale":[],
+    "spawn":["0-94","0-95"]
+  }
+}

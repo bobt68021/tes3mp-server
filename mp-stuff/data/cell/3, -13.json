@@ -1,0 +1,205 @@
+{
+  "entry":{
+    "description":"3, -13"
+  },
+  "lastVisit":{
+    "bob":1506050772
+  },
+  "objectData":{
+    "259458-0":{
+      "equipment":{
+        "8":{
+          "refId":"common_shirt_gondolier",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"steel dagger",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"gondolier_helm",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"talsi uvayn",
+      "stats":{
+        "fatigueCurrent":165,
+        "healthBase":54,
+        "fatigueBase":165,
+        "healthModified":54,
+        "fatigueModified":165,
+        "magickaModified":86,
+        "magickaBase":86,
+        "healthCurrent":54,
+        "magickaCurrent":86
+      },
+      "location":{
+        "rotX":0,
+        "posY":-99639.1640625,
+        "posX":30770.705078125,
+        "posZ":577.00006103516,
+        "rotZ":1.5707963705063,
+        "rotY":0
+      }
+    },
+    "295994-0":{
+      "equipment":[{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1
+        },null,{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1
+        },null,{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1
+        },null,null,null,null,null,null,{
+          "refId":"shockbite mace",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"alvela saram",
+      "stats":{
+        "fatigueCurrent":304,
+        "healthBase":170,
+        "fatigueBase":304,
+        "healthModified":170,
+        "fatigueModified":304,
+        "magickaModified":120,
+        "magickaBase":120,
+        "healthCurrent":170,
+        "magickaCurrent":120
+      },
+      "location":{
+        "rotX":0,
+        "posY":-101349.28125,
+        "posX":31763.87109375,
+        "posZ":3314.8232421875,
+        "rotZ":2.5831851959229,
+        "rotY":0
+      }
+    },
+    "287792-0":{
+      "equipment":{
+        "1":{
+          "refId":"indoril cuirass",
+          "count":1,
+          "charge":-1
+        },
+        "3":{
+          "refId":"indoril pauldron left",
+          "count":1,
+          "charge":-1
+        },
+        "4":{
+          "refId":"indoril pauldron right",
+          "count":1,
+          "charge":-1
+        },
+        "5":{
+          "refId":"indoril left gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "6":{
+          "refId":"indoril right gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"indoril boots",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"expensive_pants_02",
+          "count":1,
+          "charge":-1
+        },
+        "15":{
+          "refId":"indoril_belt",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"silver claymore",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"indoril helmet",
+          "count":1,
+          "charge":-1
+        },
+        "17":{
+          "refId":"indoril shield",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"ordinator_high fane",
+      "stats":{
+        "fatigueCurrent":321,
+        "healthBase":231,
+        "fatigueBase":321,
+        "healthModified":231,
+        "fatigueModified":321,
+        "magickaModified":128,
+        "magickaBase":128,
+        "healthCurrent":231,
+        "magickaCurrent":128
+      },
+      "location":{
+        "rotX":0,
+        "posY":-99644.0234375,
+        "posX":32132.33984375,
+        "posZ":1055.0001220703,
+        "rotZ":0,
+        "rotY":0
+      }
+    }
+  },
+  "packets":{
+    "delete":[],
+    "actorList":["259458-0","287792-0","295994-0"],
+    "position":["259458-0","287792-0","295994-0"],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":["259458-0","287792-0","295994-0"],
+    "cellChangeFrom":[],
+    "trap":[],
+    "equipment":["259458-0","287792-0","295994-0"],
+    "container":[],
+    "lock":[],
+    "doorState":[],
+    "state":[],
+    "scale":[],
+    "spawn":[]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "entry":{
+    "description":"Imperial Prison Ship"
+  },
+  "lastVisit":[],
+  "objectData":{
+    "397568-0":{
+      "state":false,
+      "refId":"chargen boat guard 2"
+    }
+  },
+  "packets":{
+    "delete":[],
+    "actorList":[],
+    "position":[],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":[],
+    "cellChangeFrom":[],
+    "trap":[],
+    "equipment":[],
+    "container":[],
+    "lock":[],
+    "doorState":[],
+    "state":["397568-0"],
+    "scale":[],
+    "spawn":[]
+  }
+}
