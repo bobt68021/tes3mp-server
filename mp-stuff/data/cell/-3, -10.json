@@ -4,19 +4,19 @@
   },
   "lastVisit":{
     "Satan":1506035953,
-    "Bob":1506120497,
+    "bob":1506050455,
     "Vakaria":1506053045,
     "Konoroth":1506053039,
-    "bob":1506050455
+    "Bob":1506121499
   },
   "objectData":{
     "0-3":{
       "location":{
-        "rotX":-0.021222833544016,
-        "posY":-74683.9140625,
-        "posX":-21722.87109375,
-        "posZ":624.22302246094,
-        "rotZ":-1.4388325214386,
+        "rotX":0.037346690893173,
+        "posY":-74673.84375,
+        "posX":-21781.271484375,
+        "posZ":626.28155517578,
+        "rotZ":1.7279059886932,
         "rotY":0
       },
       "refId":"netch_bull",
@@ -48,21 +48,21 @@
         }],
       "refId":"flora_bc_shelffungus_02"
     },
-    "309547-0":{
+    "309531-0":{
       "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
+          "refId":"ingred_coprinus_01",
+          "count":2,
           "charge":-1
         }],
-      "refId":"flora_bc_shelffungus_03"
+      "refId":"flora_bc_mushroom_08"
     },
     "0-7":{
       "location":{
-        "rotX":-0.078756555914879,
-        "posY":-79045.390625,
-        "posX":-21236.55859375,
-        "posZ":-910.6435546875,
-        "rotZ":0.60650563240051,
+        "rotX":0.023061025887728,
+        "posY":-78985.3828125,
+        "posX":-21315.974609375,
+        "posZ":-907.00598144531,
+        "rotZ":1.0446388721466,
         "rotY":0
       },
       "refId":"slaughterfish",
@@ -147,10 +147,10 @@
     "0-5":{
       "location":{
         "rotX":0,
-        "posY":-78710.234375,
-        "posX":-18816.87109375,
+        "posY":-78540.28125,
+        "posX":-18394.40625,
         "posZ":-921.54162597656,
-        "rotZ":2.3186838626862,
+        "rotZ":0.16462707519531,
         "rotY":0
       },
       "refId":"dreugh",
@@ -238,13 +238,27 @@
         }],
       "refId":"flora_bc_mushroom_04"
     },
-    "249137-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_01"
+    "0-12":{
+      "location":{
+        "rotX":0.091219946742058,
+        "posY":-74332.0546875,
+        "posX":-22778.6484375,
+        "posZ":486.75784301758,
+        "rotZ":-0.13936614990234,
+        "rotY":0
+      },
+      "refId":"netch_betty",
+      "stats":{
+        "fatigueCurrent":500,
+        "healthBase":113,
+        "fatigueBase":500,
+        "healthModified":113,
+        "fatigueModified":500,
+        "magickaModified":75,
+        "magickaBase":75,
+        "healthCurrent":113,
+        "magickaCurrent":75
+      }
     },
     "249135-0":{
       "inventory":[{
@@ -254,13 +268,27 @@
         }],
       "refId":"flora_bc_mushroom_02"
     },
-    "249146-0":{
-      "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_shelffungus_01"
+    "0-6":{
+      "location":{
+        "rotX":-0.0023196404799819,
+        "posY":-75012.4296875,
+        "posX":-17961.26171875,
+        "posZ":-37.339942932129,
+        "rotZ":2.8809902667999,
+        "rotY":0
+      },
+      "refId":"slaughterfish",
+      "stats":{
+        "fatigueCurrent":399.91665649414,
+        "healthBase":23,
+        "fatigueBase":400,
+        "healthModified":23,
+        "fatigueModified":400,
+        "magickaModified":10,
+        "magickaBase":10,
+        "healthCurrent":23,
+        "magickaCurrent":10
+      }
     },
     "249124-0":{
       "inventory":[{
@@ -278,17 +306,21 @@
         }],
       "refId":"flora_hackle-lo_01"
     },
-    "463282-0":{
-      "inventory":[],
-      "refId":"kollop_03_pearl"
-    },
-    "309531-0":{
+    "249147-0":{
       "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
           "charge":-1
         }],
-      "refId":"flora_bc_mushroom_08"
+      "refId":"flora_bc_shelffungus_01"
+    },
+    "309547-0":{
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"flora_bc_shelffungus_03"
     },
     "309546-0":{
       "inventory":[{
@@ -306,23 +338,23 @@
         }],
       "refId":"flora_bc_mushroom_03"
     },
-    "309524-0":{
+    "249141-0":{
       "inventory":[{
-          "refId":"ingred_bc_bungler's_bane",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_shelffungus_02"
-    },
-    "309530-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
+          "refId":"ingred_coprinus_01",
           "count":2,
           "charge":-1
         }],
-      "refId":"flora_bc_mushroom_04"
+      "refId":"flora_bc_mushroom_08"
     },
-    "249165-0":{
+    "249139-0":{
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_08"
+    },
+    "249099-0":{
       "inventory":[{
           "refId":"ingred_russula_01",
           "count":2,
@@ -350,7 +382,7 @@
         }],
       "refId":"flora_bc_mushroom_01"
     },
-    "249099-0":{
+    "249165-0":{
       "inventory":[{
           "refId":"ingred_russula_01",
           "count":2,
@@ -358,21 +390,21 @@
         }],
       "refId":"flora_bc_mushroom_02"
     },
-    "249139-0":{
+    "309530-0":{
       "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_08"
-    },
-    "249141-0":{
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
+          "refId":"ingred_russula_01",
           "count":2,
           "charge":-1
         }],
-      "refId":"flora_bc_mushroom_08"
+      "refId":"flora_bc_mushroom_04"
+    },
+    "309524-0":{
+      "inventory":[{
+          "refId":"ingred_bc_bungler's_bane",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"flora_bc_shelffungus_02"
     },
     "249102-0":{
       "inventory":[{
@@ -382,7 +414,7 @@
         }],
       "refId":"flora_bc_mushroom_08"
     },
-    "249147-0":{
+    "249146-0":{
       "inventory":[{
           "refId":"ingred_bc_bungler's_bane",
           "count":1,
@@ -390,44 +422,34 @@
         }],
       "refId":"flora_bc_shelffungus_01"
     },
-    "0-6":{
-      "location":{
-        "rotX":-0.0023196404799819,
-        "posY":-74506.3125,
-        "posX":-18523.568359375,
-        "posZ":-37.344524383545,
-        "rotZ":0.4778311252594,
-        "rotY":0
-      },
-      "refId":"slaughterfish",
-      "stats":{
-        "fatigueCurrent":399.91665649414,
-        "healthBase":23,
-        "fatigueBase":400,
-        "healthModified":23,
-        "fatigueModified":400,
-        "magickaModified":10,
-        "magickaBase":10,
-        "healthCurrent":23,
-        "magickaCurrent":10
-      }
+    "463282-0":{
+      "inventory":[],
+      "refId":"kollop_03_pearl"
+    },
+    "249137-0":{
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_01"
     }
   },
   "packets":{
     "delete":[],
-    "spawn":["0-5","0-7","0-6","0-2","0-3"],
-    "scale":[],
+    "container":["249099-0","249100-0","249102-0","249123-0","249124-0","249125-0","249127-0","249135-0","249136-0","249137-0","249138-0","249139-0","249141-0","249146-0","249147-0","249148-0","249149-0","249165-0","249166-0","249167-0","309522-0","309523-0","309524-0","309525-0","309526-0","309527-0","309528-0","309529-0","309530-0","309531-0","309544-0","309545-0","309546-0","309547-0","309548-0","309549-0","309550-0","463282-0","463288-0"],
+    "equipment":[],
     "place":[],
     "cellChangeTo":[],
-    "statsDynamic":["0-5","0-7","0-6","0-2","0-3"],
+    "statsDynamic":["0-5","0-7","0-2","0-6","0-12","0-3"],
     "cellChangeFrom":[],
     "trap":[],
-    "state":[],
-    "doorState":[],
+    "actorList":["0-5","0-7","0-2","0-6","0-12","0-3"],
+    "position":["0-5","0-7","0-2","0-6","0-12","0-3"],
     "lock":[],
-    "position":["0-5","0-7","0-6","0-2","0-3"],
-    "actorList":["0-5","0-7","0-6","0-2","0-3"],
-    "equipment":[],
-    "container":["249099-0","249100-0","249102-0","249123-0","249124-0","249125-0","249127-0","249135-0","249136-0","249137-0","249138-0","249139-0","249141-0","249146-0","249147-0","249148-0","249149-0","249165-0","249166-0","249167-0","309522-0","309523-0","309524-0","309525-0","309526-0","309527-0","309528-0","309529-0","309530-0","309531-0","309544-0","309545-0","309546-0","309547-0","309548-0","309549-0","309550-0","463282-0","463288-0"]
+    "doorState":[],
+    "state":[],
+    "scale":[],
+    "spawn":["0-5","0-7","0-2","0-6","0-12","0-3"]
   }
 }
