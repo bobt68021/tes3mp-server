@@ -3,23 +3,23 @@
     "description":"Addamasartus"
   },
   "lastVisit":{
-    "Bob":1506050954,
+    "Vakaria":1506198511,
     "bob":1506050701,
-    "Konoroth":1506051008,
-    "Vakaria":1506050832
+    "Konoroth":1506198514,
+    "Bob":1506198526
   },
   "objectData":{
-    "89886-0":{
-      "doorState":1,
-      "refId":"door_cavern_doors00"
+    "365588-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_05"
     },
     "0-107":{
       "location":{
-        "rotX":-0.16677407920361,
-        "posY":468.3076171875,
-        "posX":-2949.490234375,
-        "posZ":-462.68347167969,
-        "rotZ":1.3190071582794,
+        "rotX":0.11618324369192,
+        "posY":696.70379638672,
+        "posX":-2775.609375,
+        "posZ":-418.14419555664,
+        "rotZ":-2.91366314888,
         "rotY":0
       },
       "refId":"rat",
@@ -35,129 +35,80 @@
         "magickaCurrent":10
       }
     },
-    "356210-0":{
-      "inventory":[{
-          "refId":"potion_skooma_01",
-          "count":2,
-          "charge":-1
-        },{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_shirt_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_pants_03",
-          "count":2,
-          "charge":-1
-        },{
-          "refId":"misc_uni_pillow_01",
-          "count":4,
-          "charge":-1
-        }],
-      "refId":"crate_01_skooma"
+    "282955-0":{
+      "equipment":[],
+      "stats":{
+        "fatigueCurrent":149.65518188477,
+        "healthBase":35,
+        "fatigueBase":150,
+        "healthModified":35,
+        "fatigueModified":150,
+        "magickaModified":80,
+        "magickaBase":80,
+        "healthCurrent":0,
+        "magickaCurrent":80
+      },
+      "location":{
+        "rotX":0,
+        "posY":1407.5080566406,
+        "posX":1345.9212646484,
+        "posZ":327.04998779297,
+        "rotZ":1.8000000715256,
+        "rotY":0
+      },
+      "refId":"tanisie verethi",
+      "inventory":[]
     },
     "367709-0":{
-      "inventory":[{
-          "refId":"ingred_muck_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_dreugh_wax_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_bloat_01",
-          "count":1,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"com_sack_03_ingredients"
     },
     "376806-0":{
-      "inventory":[{
-          "refId":"chitin guantlet - right",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"food_kwama_egg_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"gold_001",
-          "count":21,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"crate_smuggler_01"
     },
+    "367705-0":{
+      "refId":"misc_de_bowl_01"
+    },
+    "465787-0":{
+      "refId":"key_addamasartusslaves_01"
+    },
     "365600-0":{
-      "inventory":[{
-          "refId":"p_restore_willpower_q",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"potion_local_liquor_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"misc_com_pitcher_metal_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"gold_001",
-          "count":3,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"com_chest_11_pos"
     },
     "376808-0":{
-      "inventory":[{
-          "refId":"potion_local_liquor_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"potion_local_brew_01",
-          "count":2,
-          "charge":-1
-        },{
-          "refId":"misc_soulgem_petty",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"gold_001",
-          "count":8,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"crate_smuggler_01"
     },
     "282957-0":{
-      "inventory":[{
-          "refId":"ingred_moon_sugar_01",
-          "count":6,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"crate_02_moonsugar"
     },
-    "365613-0":{
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_08"
+    "356212-0":{
+      "inventory":[],
+      "refId":"barrel_01"
     },
     "481164-0":{
-      "inventory":[{
-          "refId":"ingred_bonemeal_01",
-          "count":1,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"contain_corpse10"
+    },
+    "0-139":{
+      "location":{
+        "rotX":0,
+        "posY":3644.8515625,
+        "posX":27.570844650269,
+        "posZ":-714.35223388672,
+        "rotZ":3.0937144756317,
+        "rotY":0
+      },
+      "refId":"iron saber",
+      "goldValue":0
+    },
+    "365498-0":{
+      "doorState":1,
+      "refId":"door_cavern_doors00",
+      "lockLevel":0
     },
     "282953-0":{
       "equipment":[],
@@ -174,9 +125,9 @@
       },
       "location":{
         "rotX":0,
-        "posY":1541.583984375,
-        "posX":237.43572998047,
-        "posZ":151.07452392578,
+        "posY":1541.5712890625,
+        "posX":237.44027709961,
+        "posZ":151.08926391602,
         "rotZ":2.7999997138977,
         "rotY":0
       },
@@ -184,23 +135,7 @@
       "inventory":[]
     },
     "376807-0":{
-      "inventory":[{
-          "refId":"potion_t_bug_musk_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"sc_ondusisunhinging",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_moon_sugar_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"gold_001",
-          "count":26,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"crate_smuggler_01"
     },
     "0-110":{
@@ -214,6 +149,9 @@
       },
       "refId":"misc_com_bucket_01",
       "goldValue":0
+    },
+    "481165-0":{
+      "refId":"misc_de_fishing_pole"
     },
     "365612-0":{
       "inventory":[{
@@ -234,6 +172,28 @@
         }],
       "refId":"flora_bc_mushroom_08"
     },
+    "0-136":{
+      "location":{
+        "rotX":0.13404296338558,
+        "posY":1673.5114746094,
+        "posX":157.85270690918,
+        "posZ":33.956741333008,
+        "rotZ":0.86273312568665,
+        "rotY":0
+      },
+      "refId":"ancestor_ghost_summon",
+      "stats":{
+        "fatigueCurrent":400,
+        "healthBase":23,
+        "fatigueBase":400,
+        "healthModified":23,
+        "fatigueModified":400,
+        "magickaModified":400,
+        "magickaBase":400,
+        "healthCurrent":0,
+        "magickaCurrent":120
+      }
+    },
     "365611-0":{
       "inventory":[{
           "refId":"ingred_russula_01",
@@ -242,11 +202,56 @@
         }],
       "refId":"flora_bc_mushroom_02"
     },
-    "326708-0":{
-      "refId":"misc_com_bucket_01"
+    "365590-0":{
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_08"
     },
     "326707-0":{
       "refId":"misc_com_bucket_01"
+    },
+    "365613-0":{
+      "inventory":[{
+          "refId":"ingred_coprinus_01",
+          "count":2,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_08"
+    },
+    "367708-0":{
+      "refId":"misc_com_wood_cup_02"
+    },
+    "365591-0":{
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":2,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_02"
+    },
+    "365599-0":{
+      "refId":"torch_256"
+    },
+    "326696-0":{
+      "refId":"torch_256"
+    },
+    "367706-0":{
+      "refId":"misc_de_cloth11"
+    },
+    "0-111":{
+      "location":{
+        "rotX":0,
+        "posY":1519.62890625,
+        "posX":1086.9545898438,
+        "posZ":153.73930358887,
+        "rotZ":-1.3144710063934,
+        "rotY":0
+      },
+      "refId":"misc_de_bellows10",
+      "goldValue":0
     },
     "365483-0":{
       "equipment":[null,null,null,null,null,{
@@ -259,14 +264,6 @@
           "charge":-1
         }],
       "refId":"okaw",
-      "location":{
-        "rotX":0,
-        "posY":-27.738212585449,
-        "posX":-154.86624145508,
-        "posZ":324.78552246094,
-        "rotZ":0,
-        "rotY":0
-      },
       "stats":{
         "fatigueCurrent":160,
         "healthBase":40,
@@ -277,7 +274,24 @@
         "magickaBase":80,
         "healthCurrent":40,
         "magickaCurrent":77
+      },
+      "location":{
+        "rotX":0,
+        "posY":-27.750650405884,
+        "posX":-151.80242919922,
+        "posZ":324.90966796875,
+        "rotZ":0,
+        "rotY":0
       }
+    },
+    "367702-0":{
+      "refId":"gold_005"
+    },
+    "365609-0":{
+      "refId":"iron saber"
+    },
+    "326691-0":{
+      "refId":"torch_256"
     },
     "365589-0":{
       "inventory":[{
@@ -287,171 +301,12 @@
         }],
       "refId":"flora_bc_mushroom_08"
     },
-    "365591-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_02"
+    "367707-0":{
+      "refId":"misc_com_bottle_02"
     },
     "89904-0":{
-      "inventory":[{
-          "refId":"steel battle axe",
-          "count":1,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"com_chest_01_k01"
-    },
-    "356212-0":{
-      "inventory":[],
-      "refId":"barrel_01"
-    },
-    "365588-0":{
-      "inventory":[],
-      "refId":"flora_bc_mushroom_05"
-    },
-    "365590-0":{
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_08"
-    },
-    "282960-0":{
-      "inventory":[{
-          "refId":"ingred_moon_sugar_01",
-          "count":4,
-          "charge":-1
-        },{
-          "refId":"ingred_ash_yam_01",
-          "count":2,
-          "charge":-1
-        },{
-          "refId":"ingred_heather_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_kresh_fiber_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_marshmerrow_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_saltrice_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_wickwheat_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"barrel_01_moonsugar"
-    },
-    "365484-0":{
-      "equipment":[null,null,null,null,{
-          "refId":"slave_bracer_left",
-          "count":1,
-          "charge":-1
-        },null,null,null,{
-          "refId":"common_pants_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"banalz",
-      "location":{
-        "rotX":0,
-        "posY":67.631874084473,
-        "posX":34.159267425537,
-        "posZ":324.73696899414,
-        "rotZ":5.983184337616,
-        "rotY":0
-      },
-      "stats":{
-        "fatigueCurrent":160,
-        "healthBase":40,
-        "fatigueBase":160,
-        "healthModified":40,
-        "fatigueModified":160,
-        "magickaModified":97,
-        "magickaBase":100,
-        "healthCurrent":40,
-        "magickaCurrent":97
-      }
-    },
-    "282955-0":{
-      "equipment":[],
-      "stats":{
-        "fatigueCurrent":149.65518188477,
-        "healthBase":35,
-        "fatigueBase":150,
-        "healthModified":35,
-        "fatigueModified":150,
-        "magickaModified":80,
-        "magickaBase":80,
-        "healthCurrent":0,
-        "magickaCurrent":80
-      },
-      "location":{
-        "rotX":0,
-        "posY":1407.5109863281,
-        "posX":1345.9080810547,
-        "posZ":327.04809570312,
-        "rotZ":1.8000000715256,
-        "rotY":0
-      },
-      "refId":"tanisie verethi",
-      "inventory":[]
-    },
-    "376805-0":{
-      "inventory":[{
-          "refId":"common_shirt_02",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_shoes_02",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"expensive_shirt_02",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"crate_02_de_fclothes"
-    },
-    "365485-0":{
-      "equipment":[null,null,null,null,null,{
-          "refId":"slave_bracer_right",
-          "count":1,
-          "charge":-1
-        },null,null,{
-          "refId":"common_pants_05",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"baadargo",
-      "location":{
-        "rotX":-0.10921190679073,
-        "posY":152.72323608398,
-        "posX":-225.94877624512,
-        "posZ":316.50378417969,
-        "rotZ":-1.8277537822723,
-        "rotY":0
-      },
-      "stats":{
-        "fatigueCurrent":160,
-        "healthBase":40,
-        "fatigueBase":160,
-        "healthModified":40,
-        "fatigueModified":160,
-        "magickaModified":77,
-        "magickaBase":80,
-        "healthCurrent":40,
-        "magickaCurrent":77
-      }
     },
     "282952-0":{
       "equipment":{
@@ -466,7 +321,7 @@
           "charge":-1
         },
         "16":{
-          "refId":"chitin dagger",
+          "refId":"chitin throwing star",
           "count":1,
           "charge":-1
         },
@@ -482,54 +337,129 @@
         }
       },
       "refId":"mulvisie othril",
-      "location":{
-        "rotX":0,
-        "posY":3677.8742675781,
-        "posX":-1201.7283935547,
-        "posZ":-583.91204833984,
-        "rotZ":2.1561946868896,
-        "rotY":0
-      },
       "stats":{
-        "fatigueCurrent":148,
+        "fatigueCurrent":136.78958129883,
         "healthBase":40,
         "fatigueBase":148,
         "healthModified":40,
         "fatigueModified":148,
         "magickaModified":102,
         "magickaBase":102,
-        "healthCurrent":40,
+        "healthCurrent":0,
         "magickaCurrent":102
+      },
+      "location":{
+        "rotX":0.87764930725098,
+        "posY":3974.3129882812,
+        "posX":-1710.3597412109,
+        "posZ":-468.45556640625,
+        "rotZ":-2.3607285022736,
+        "rotY":0
       }
     },
-    "0-111":{
+    "89886-0":{
+      "doorState":1,
+      "refId":"door_cavern_doors00"
+    },
+    "326708-0":{
+      "refId":"misc_com_bucket_01"
+    },
+    "282960-0":{
+      "inventory":[],
+      "refId":"barrel_01_moonsugar"
+    },
+    "365485-0":{
+      "equipment":[null,null,null,null,null,{
+          "refId":"slave_bracer_right",
+          "count":1,
+          "charge":-1
+        },null,null,{
+          "refId":"common_pants_05",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"baadargo",
+      "stats":{
+        "fatigueCurrent":160,
+        "healthBase":40,
+        "fatigueBase":160,
+        "healthModified":40,
+        "fatigueModified":160,
+        "magickaModified":77,
+        "magickaBase":80,
+        "healthCurrent":40,
+        "magickaCurrent":77
+      },
+      "location":{
+        "rotX":-0.023915585130453,
+        "posY":130.36305236816,
+        "posX":-265.6667175293,
+        "posZ":316.66888427734,
+        "rotZ":2.6571080684662,
+        "rotY":0
+      }
+    },
+    "356210-0":{
+      "inventory":[],
+      "refId":"crate_01_skooma"
+    },
+    "376805-0":{
+      "inventory":[],
+      "refId":"crate_02_de_fclothes"
+    },
+    "365484-0":{
+      "equipment":[null,null,null,null,{
+          "refId":"slave_bracer_left",
+          "count":1,
+          "charge":-1
+        },null,null,null,{
+          "refId":"common_pants_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"banalz",
+      "stats":{
+        "fatigueCurrent":160,
+        "healthBase":40,
+        "fatigueBase":160,
+        "healthModified":40,
+        "fatigueModified":160,
+        "magickaModified":97,
+        "magickaBase":100,
+        "healthCurrent":40,
+        "magickaCurrent":97
+      },
       "location":{
         "rotX":0,
-        "posY":1519.62890625,
-        "posX":1086.9545898438,
-        "posZ":153.73930358887,
-        "rotZ":-1.3144710063934,
+        "posY":67.799087524414,
+        "posX":34.702301025391,
+        "posZ":324.74142456055,
+        "rotZ":5.983184337616,
         "rotY":0
-      },
-      "refId":"misc_de_bellows10",
-      "goldValue":0
+      }
+    },
+    "367703-0":{
+      "refId":"gold_001"
+    },
+    "367704-0":{
+      "refId":"gold_001"
     }
   },
   "packets":{
-    "delete":["326706-0","326707-0","326708-0"],
-    "spawn":["0-107"],
-    "scale":[],
-    "place":["0-110","0-111"],
+    "delete":["326706-0","326707-0","326708-0","326691-0","367702-0","367707-0","367708-0","367706-0","326696-0","365599-0","465787-0","367703-0","367704-0","367705-0","365609-0","481165-0"],
+    "container":["282960-0","356210-0","356212-0","365588-0","365589-0","365590-0","365591-0","365592-0","365600-0","365611-0","365612-0","365613-0","367709-0","376805-0","376806-0","376807-0","376808-0","89904-0","282957-0","481164-0","282955-0","282953-0"],
+    "equipment":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0"],
+    "place":["0-110","0-111","0-139"],
     "cellChangeTo":[],
-    "statsDynamic":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0","0-107"],
+    "statsDynamic":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0","0-107","0-136"],
     "cellChangeFrom":[],
     "trap":[],
+    "lock":["365498-0"],
+    "actorList":["0-107","282952-0","282955-0","282953-0","365483-0","365484-0","365485-0","0-136"],
+    "position":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0","0-107","0-136"],
+    "doorState":["89886-0","365498-0"],
     "state":[],
-    "doorState":["89886-0"],
-    "position":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0","0-107"],
-    "actorList":["0-107","282952-0","282955-0","282953-0","365483-0","365484-0","365485-0"],
-    "lock":[],
-    "equipment":["282952-0","282953-0","282955-0","365483-0","365484-0","365485-0"],
-    "container":["282960-0","356210-0","356212-0","365588-0","365589-0","365590-0","365591-0","365592-0","365600-0","365611-0","365612-0","365613-0","367709-0","376805-0","376806-0","376807-0","376808-0","89904-0","282957-0","481164-0","282955-0","282953-0"]
+    "scale":[],
+    "spawn":["0-107","0-136"]
   }
 }

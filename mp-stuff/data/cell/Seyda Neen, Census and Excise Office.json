@@ -3,59 +3,13 @@
     "description":"Seyda Neen, Census and Excise Office"
   },
   "lastVisit":{
-    "Konoroth":1506048856
+    "Konoroth":1506048856,
+    "Vakaria":1506204101
   },
   "objectData":{
     "414037-0":{
       "inventory":[],
       "refId":"stolen_goods"
-    },
-    "397573-0":{
-      "inventory":[{
-          "refId":"misc_com_bottle_15",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"com_basket_01_chargen"
-    },
-    "119636-0":{
-      "equipment":{
-        "11":{
-          "refId":"common_robe_05",
-          "count":1,
-          "charge":-1
-        },
-        "16":{
-          "refId":"steel shardblade",
-          "count":1,
-          "charge":-1
-        },
-        "7":{
-          "refId":"common_shoes_03",
-          "count":1,
-          "charge":-1
-        }
-      },
-      "refId":"chargen class",
-      "stats":{
-        "fatigueCurrent":236,
-        "healthBase":102,
-        "fatigueBase":236,
-        "healthModified":102,
-        "fatigueModified":236,
-        "magickaModified":160,
-        "magickaBase":160,
-        "healthCurrent":102,
-        "magickaCurrent":160
-      },
-      "location":{
-        "rotX":0,
-        "posY":-111.05819702148,
-        "posX":242.30084228516,
-        "posZ":193,
-        "rotZ":4.7123889923096,
-        "rotY":0
-      }
     },
     "172858-0":{
       "equipment":[{
@@ -96,6 +50,14 @@
           "charge":-1
         }],
       "refId":"chargen captain",
+      "location":{
+        "rotX":0,
+        "posY":-380.32373046875,
+        "posX":1366.2745361328,
+        "posZ":193,
+        "rotZ":4.7123889923096,
+        "rotY":0
+      },
       "stats":{
         "fatigueCurrent":280,
         "healthBase":186,
@@ -106,15 +68,31 @@
         "magickaBase":116,
         "healthCurrent":186,
         "magickaCurrent":116
-      },
-      "location":{
-        "rotX":0,
-        "posY":-380.32373046875,
-        "posX":1366.2745361328,
-        "posZ":193,
-        "rotZ":4.7123889923096,
-        "rotY":0
       }
+    },
+    "321345-0":{
+      "inventory":[{
+          "refId":"ingred_scrib_jerky_01",
+          "count":2,
+          "charge":-1
+        },{
+          "refId":"food_kwama_egg_01",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"ingred_crab_meat_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"com_basket_01_chpfood"
+    },
+    "397577-0":{
+      "inventory":[{
+          "refId":"ingred_corkbulb_root_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"com_sack_01_ingred"
     },
     "119623-0":{
       "inventory":[{
@@ -148,13 +126,13 @@
         }],
       "refId":"com_basket_01_chpfood"
     },
-    "397577-0":{
+    "119529-0":{
       "inventory":[{
-          "refId":"ingred_corkbulb_root_01",
-          "count":1,
+          "refId":"gold_001",
+          "count":25,
           "charge":-1
         }],
-      "refId":"com_sack_01_ingred"
+      "refId":"chest_small_02_rndgold"
     },
     "397576-0":{
       "inventory":[{
@@ -168,25 +146,48 @@
         }],
       "refId":"com_sack_01_ingred"
     },
+    "119636-0":{
+      "equipment":{
+        "11":{
+          "refId":"common_robe_05",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"steel shardblade",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"common_shoes_03",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"chargen class",
+      "location":{
+        "rotX":0,
+        "posY":-111.05819702148,
+        "posX":242.30084228516,
+        "posZ":193,
+        "rotZ":4.7123889923096,
+        "rotY":0
+      },
+      "stats":{
+        "fatigueCurrent":236,
+        "healthBase":102,
+        "fatigueBase":236,
+        "healthModified":102,
+        "fatigueModified":236,
+        "magickaModified":160,
+        "magickaBase":160,
+        "healthCurrent":102,
+        "magickaCurrent":160
+      }
+    },
     "172859-0":{
       "state":false,
       "refId":"chargen statssheet"
-    },
-    "397574-0":{
-      "inventory":[{
-          "refId":"ingred_resin_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_red_lichen_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_stoneflower_petals_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"com_sack_03_ingredients"
     },
     "172857-0":{
       "equipment":{
@@ -247,6 +248,14 @@
         }
       },
       "refId":"chargen door guard",
+      "location":{
+        "rotX":0,
+        "posY":190.57507324219,
+        "posX":74.131072998047,
+        "posZ":193,
+        "rotZ":3.1415927410126,
+        "rotY":0
+      },
       "stats":{
         "fatigueCurrent":265,
         "healthBase":170,
@@ -257,15 +266,23 @@
         "magickaBase":110,
         "healthCurrent":170,
         "magickaCurrent":110
-      },
-      "location":{
-        "rotX":0,
-        "posY":190.57507324219,
-        "posX":74.131072998047,
-        "posZ":193,
-        "rotZ":3.1415927410126,
-        "rotY":0
       }
+    },
+    "397574-0":{
+      "inventory":[{
+          "refId":"ingred_resin_01",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"ingred_red_lichen_01",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"ingred_stoneflower_petals_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"com_sack_03_ingredients"
     },
     "397575-0":{
       "inventory":[{
@@ -274,14 +291,6 @@
           "charge":-1
         }],
       "refId":"com_basket_chargen2"
-    },
-    "119529-0":{
-      "inventory":[{
-          "refId":"gold_001",
-          "count":25,
-          "charge":-1
-        }],
-      "refId":"chest_small_02_rndgold"
     },
     "397578-0":{
       "inventory":[{
@@ -295,38 +304,30 @@
         }],
       "refId":"com_sack_03_ingredients"
     },
-    "321345-0":{
+    "397573-0":{
       "inventory":[{
-          "refId":"ingred_scrib_jerky_01",
-          "count":2,
-          "charge":-1
-        },{
-          "refId":"food_kwama_egg_01",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"ingred_crab_meat_01",
+          "refId":"misc_com_bottle_15",
           "count":1,
           "charge":-1
         }],
-      "refId":"com_basket_01_chpfood"
+      "refId":"com_basket_01_chargen"
     }
   },
   "packets":{
     "delete":[],
-    "actorList":["172857-0","172858-0","119636-0"],
-    "position":["119636-0","172857-0","172858-0"],
+    "spawn":[],
+    "scale":[],
     "place":[],
     "cellChangeTo":[],
     "statsDynamic":["119636-0","172857-0","172858-0"],
     "cellChangeFrom":[],
     "trap":[],
-    "equipment":["119636-0","172857-0","172858-0"],
-    "container":["414037-0","119529-0","119620-0","321345-0","119623-0","397572-0","397573-0","397574-0","397575-0","397576-0","397577-0","397578-0"],
-    "lock":[],
-    "doorState":[],
     "state":["172859-0"],
-    "scale":[],
-    "spawn":[]
+    "doorState":[],
+    "actorList":["172857-0","172858-0","119636-0"],
+    "lock":[],
+    "position":["119636-0","172857-0","172858-0"],
+    "equipment":["119636-0","172857-0","172858-0"],
+    "container":["414037-0","119529-0","119620-0","321345-0","119623-0","397572-0","397573-0","397574-0","397575-0","397576-0","397577-0","397578-0"]
   }
 }

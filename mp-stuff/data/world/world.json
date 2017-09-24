@@ -1,19 +1,33 @@
 {
   "general":{
-    "currentMpNum":126
+    "currentMpNum":242
   },
-  "topics":["ring","services","latest rumors","solstheim","someone in particular","little advice","popular potions","popular scrolls","practice your skills","pelagiad","balmora","caldera","ebonheart","vivec","specific place","dunmer","recover some gold","fargoth's hiding place","discerning eye"],
+  "topics":["ring","services","latest rumors","solstheim","someone in particular","little advice","popular potions","popular scrolls","practice your skills","pelagiad","balmora","caldera","ebonheart","vivec","specific place","dunmer","recover some gold","fargoth's hiding place","discerning eye","vodunius nuccius","seyda neen","vvardenfell","vvardenfell district","morrowind","silt strider","inner sea","padomaic ocean","sea of ghosts","imperial legion","join the imperial legion","go free","destination","little secret","camonna tong","outlander","foreigners","balmora temple","fort moonmoth","imperial cult","balmora fighters guild","balmora mages guild","caius cosades","report to caius cosades","orders","blades trainers","thieves guild","fighters guild","mages guild","freelance work","blades","lay servant","guilds and factions","house redoran","house hlaalu","house telvanni","temple","morag tong","ashlanders","rithleen","tyermaillin","nine-toes","surane leoriane","gildan","sjorvar horse-mouth","elone","hasphat antabolis","nerevarine","sixth house","morrowind history","nerevarine prophecies","my trade","morrowind lore","citizens of the empire","bacola closcius","great houses","nord","south wall","silt strider service","guild guide","foyada mamaea","join the thieves guild","red mountain","foyada","ghostgate","the blight","price on your head","rules","geographic regions","jobs","advancement","diamond","nalcarya of white haven","hla oad","beds","imperial law","breton","settlements in morrowind","imperial","join the fighters guild","equipment chest","cave rat","ralen hlaalo","odai","egg poachers","shulk egg mine","council club","enchantments","disturbing dreams","food","favor","arkngthand","dwemer puzzle box","disappearance of the dwarves","clothes","join the morag tong","nerano manor","join the mages guild","duties","requirements","local brews","help in a fight","telvanni bug musk","high places","mushrooms","luminous russula","violet coprinus","bungler's bane","hypha facia","ondres nerano","sovor trandel","dagoth ur","murder of processus vitellius","bitter coast","sheogorad","gnaar mok","seen him get angry","processus' ring","kwama forager","scrib jelly","scrib","kwama","kwama queen","kwama warrior","kwama worker","bet with galbedir","fake soul gem","flowers","gold kanet","stoneflower petals","willow anther","heather","lake amaya","ceramic bowl","illusion spells","daedric","stolen reports","join us","guild dues","sulipund","punabi","molag amur","join the temple","seven graces","orvas dren","dwemer artifacts","telvanni agents","thefts and disappearances","caldera ebony mines","alynu aralen","sathasa nerothren","fothyna herothran","alveleg","thieves guild job"],
   "kills":{
-    "db_assassin1b":2,
-    "melar baram":1,
-    "kwama forager":1,
+    "ancestor_ghost_summon":3,
+    "kwama forager":8,
+    "daynila valas":1,
     "agronian guy":1,
+    "bonewalker":1,
+    "rat_cave_fgrh":3,
+    "mudcrab":5,
+    "scrib":6,
+    "kwama worker":1,
+    "mulvisie othril":1,
+    "fargoth":1,
+    "melar baram":1,
+    "netch_betty":1,
+    "sevilo othan":1,
     "cliff racer":2,
+    "heddvild":1,
     "tanisie verethi":1,
-    "mudcrab":1,
-    "rat":1,
-    "cliff racer_diseased":2,
-    "fargoth":1
+    "ancestor_ghost":3,
+    "slaughterfish_small":1,
+    "rat":2,
+    "nix-hound":1,
+    "cliff racer_diseased":3,
+    "db_assassin1b":6,
+    "foryn gilnith":1
   },
   "journal":[{
       "type":0,
@@ -60,9 +74,316 @@
       "index":40,
       "quest":"ms_lookout",
       "actorRefId":"flora_treestump_unique"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"ms_lookout",
+      "actorRefId":"player"
+    },{
+      "type":0,
+      "index":2,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"elone"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"ms_nuccius",
+      "actorRefId":"darvame hleran"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"town_balmora",
+      "actorRefId":"hul"
+    },{
+      "type":0,
+      "index":14,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":18,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_elone2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_gildan2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_nine_toes2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_rithleen2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_sjorvar2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_tyermaillin2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"blades_surane2",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"caius cosades"
+    },{
+      "type":0,
+      "index":5,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"sottilde"
+    },{
+      "type":0,
+      "index":5,
+      "quest":"town_balmora",
+      "actorRefId":"sottilde"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"tg_diamonds",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"rules_thieves",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"a1_1_findspymaster",
+      "actorRefId":"bacola closcius"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"rules_fighters",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"fg_rathunt",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":50,
+      "quest":"fg_rathunt",
+      "actorRefId":"drarayne thelas"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"fg_rathunt",
+      "actorRefId":"drarayne thelas"
+    },{
+      "type":0,
+      "index":105,
+      "quest":"fg_rathunt",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"town_balmora",
+      "actorRefId":"bacola closcius"
+    },{
+      "type":0,
+      "index":5,
+      "quest":"a1_2_antabolisinformant",
+      "actorRefId":"hasphat antabolis"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"rules_mages",
+      "actorRefId":"ranis athrys"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_bcshrooms",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"tg_diamonds",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"tg_manorkey",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"processus vitellius"
+    },{
+      "type":0,
+      "index":40,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"player"
+    },{
+      "type":0,
+      "index":48,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"player"
+    },{
+      "type":0,
+      "index":50,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"teleri helvi"
+    },{
+      "type":0,
+      "index":60,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"thavere vedrano"
+    },{
+      "type":0,
+      "index":70,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"foryn gilnith"
+    },{
+      "type":0,
+      "index":80,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"foryn gilnith"
+    },{
+      "type":0,
+      "index":90,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"thavere vedrano"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mv_deadtaxman",
+      "actorRefId":"player"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mg_bcshrooms",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_sabotage",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mg_sabotage",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_flowers",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mg_flowers",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_bowl",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mg_bowl",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_stolenreport",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"mg_stolenreport",
+      "actorRefId":"ajira"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_joinus",
+      "actorRefId":"ranis athrys"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"mg_paydues",
+      "actorRefId":"ranis athrys"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"tt_sevengraces",
+      "actorRefId":"feldrelo sadri"
+    },{
+      "type":0,
+      "index":30,
+      "quest":"tg_manorkey",
+      "actorRefId":"sovor trandel"
+    },{
+      "type":0,
+      "index":50,
+      "quest":"tg_manorkey",
+      "actorRefId":"sovor trandel"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"tg_manorkey",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":10,
+      "quest":"tg_overduepayments",
+      "actorRefId":"habasi"
+    },{
+      "type":0,
+      "index":100,
+      "quest":"fg_egg_poachers",
+      "actorRefId":"eydis fire-eye"
+    },{
+      "type":0,
+      "index":1,
+      "quest":"fg_telvanni_agents",
+      "actorRefId":"eydis fire-eye"
     }],
-  "customVariables":[],
-  "factionRanks":[],
-  "factionReputation":[],
-  "factionExpulsion":[]
+  "customVariables":{
+    "deliveredCaiusPackage":true
+  },
+  "factionRanks":{
+    "blades":0,
+    "thieves guild":2,
+    "temple":0,
+    "fighters guild":0,
+    "mages guild":3
+  },
+  "factionExpulsion":[],
+  "factionReputation":{
+    "mages guild":22,
+    "fighters guild":10,
+    "thieves guild":10
+  }
 }

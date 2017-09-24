@@ -5,145 +5,73 @@
   "lastVisit":{
     "Satan":1506035953,
     "bob":1506050580,
-    "Vakaria":1506053045,
-    "Konoroth":1506053039,
-    "Bob":1506121499
+    "Vakaria":1506205727,
+    "Konoroth":1506205720,
+    "Bob":1506205715
   },
   "objectData":{
-    "128967-0":{
-      "equipment":{
-        "1":{
-          "refId":"imperial cuirass_armor",
+    "266735-0":{
+      "inventory":[{
+          "refId":"ingred_bc_hypha_facia",
           "count":1,
           "charge":-1
-        },
-        "2":{
-          "refId":"imperial_greaves",
-          "count":1,
-          "charge":-1
-        },
-        "3":{
-          "refId":"imperial left pauldron",
-          "count":1,
-          "charge":-1
-        },
-        "4":{
-          "refId":"imperial right pauldron",
-          "count":1,
-          "charge":-1
-        },
-        "5":{
-          "refId":"imperial left gauntlet",
-          "count":1,
-          "charge":-1
-        },
-        "6":{
-          "refId":"imperial right gauntlet",
-          "count":1,
-          "charge":-1
-        },
-        "7":{
-          "refId":"imperial boots",
-          "count":1,
-          "charge":-1
-        },
-        "10":{
-          "refId":"imperial skirt_clothing",
-          "count":1,
-          "charge":-1
-        },
-        "15":{
-          "refId":"imperial belt",
-          "count":1,
-          "charge":-1
-        },
-        "16":{
-          "refId":"imperial broadsword",
-          "count":1,
-          "charge":-1
-        },
-        "0":{
-          "refId":"imperial helmet armor",
-          "count":1,
-          "charge":-1
-        }
-      },
-      "stats":{
-        "fatigueCurrent":309,
-        "healthBase":285,
-        "fatigueBase":309,
-        "healthModified":285,
-        "fatigueModified":309,
-        "magickaModified":110,
-        "magickaBase":110,
-        "healthCurrent":285,
-        "magickaCurrent":110
-      },
-      "location":{
-        "rotX":0.41746765375137,
-        "posY":-73679.125,
-        "posX":-11415.678710938,
-        "posZ":155.048828125,
-        "rotZ":2.7017500400543,
-        "rotY":0
-      },
-      "refId":"imperial guard"
+        }],
+      "refId":"flora_bc_shelffungus_04"
+    },
+    "113957-0":{
+      "lockLevel":0,
+      "refId":"ex_de_shack_door"
     },
     "445163-0":{
       "state":false,
       "refId":"chargencollision - extra"
     },
-    "172851-0":{
-      "inventory":[],
-      "refId":"chargen barrel fatigue"
+    "270747-0":{
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_05",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"common_shirt_02_h",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"common_pants_03",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"common_skirt_03",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"teleri helvi",
+      "stats":{
+        "fatigueCurrent":162,
+        "healthBase":58,
+        "fatigueBase":162,
+        "healthModified":58,
+        "fatigueModified":162,
+        "magickaModified":86,
+        "magickaBase":86,
+        "healthCurrent":58,
+        "magickaCurrent":86
+      },
+      "location":{
+        "rotX":-0.019025245681405,
+        "posY":-70988.09375,
+        "posX":-11230.891601562,
+        "posZ":212.30139160156,
+        "rotZ":-1.180584192276,
+        "rotY":0
+      }
     },
     "289104-0":{
       "state":false,
       "refId":"chargen_ship_trapdoor"
     },
-    "0-126":{
-      "location":{
-        "rotX":0.22572404146194,
-        "posY":-67691.578125,
-        "posX":-12093.625976562,
-        "posZ":299.84231567383,
-        "rotZ":-1.0695292949677,
-        "rotY":0
-      },
-      "refId":"fargoth",
-      "equipment":{
-        "8":{
-          "refId":"common_shirt_04",
-          "count":1,
-          "charge":-1
-        },
-        "12":{
-          "refId":"ring_keley",
-          "count":1,
-          "charge":-1
-        },
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1
-        },
-        "9":{
-          "refId":"common_pants_04",
-          "count":1,
-          "charge":-1
-        }
-      },
-      "stats":{
-        "fatigueCurrent":154,
-        "healthBase":41,
-        "fatigueBase":154,
-        "healthModified":41,
-        "fatigueModified":154,
-        "magickaModified":82,
-        "magickaBase":82,
-        "healthCurrent":41,
-        "magickaCurrent":82
-      }
+    "266738-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_08"
     },
     "445162-0":{
       "state":false,
@@ -211,7 +139,7 @@
           "charge":-1
         },
         "17":{
-          "refId":"imperial shield",
+          "refId":"torch_infinite_time",
           "count":1,
           "charge":-1
         }
@@ -229,11 +157,11 @@
         "magickaCurrent":110
       },
       "location":{
-        "rotX":0.032561600208282,
-        "posY":-70455.0859375,
-        "posX":-10834.923828125,
-        "posZ":261.61441040039,
-        "rotZ":2.0964062213898,
+        "rotX":0.078386932611465,
+        "posY":-70755.203125,
+        "posX":-10953.177734375,
+        "posZ":234.8568572998,
+        "rotZ":-2.5966436862946,
         "rotY":0
       }
     },
@@ -320,12 +248,91 @@
       "refId":"chargen dock guard",
       "state":false
     },
+    "128967-0":{
+      "equipment":{
+        "1":{
+          "refId":"imperial cuirass_armor",
+          "count":1,
+          "charge":-1
+        },
+        "2":{
+          "refId":"imperial_greaves",
+          "count":1,
+          "charge":-1
+        },
+        "3":{
+          "refId":"imperial left pauldron",
+          "count":1,
+          "charge":-1
+        },
+        "4":{
+          "refId":"imperial right pauldron",
+          "count":1,
+          "charge":-1
+        },
+        "5":{
+          "refId":"imperial left gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "6":{
+          "refId":"imperial right gauntlet",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"imperial boots",
+          "count":1,
+          "charge":-1
+        },
+        "10":{
+          "refId":"imperial skirt_clothing",
+          "count":1,
+          "charge":-1
+        },
+        "15":{
+          "refId":"imperial belt",
+          "count":1,
+          "charge":-1
+        },
+        "16":{
+          "refId":"imperial broadsword",
+          "count":1,
+          "charge":-1
+        },
+        "0":{
+          "refId":"imperial helmet armor",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "stats":{
+        "fatigueCurrent":309,
+        "healthBase":285,
+        "fatigueBase":309,
+        "healthModified":285,
+        "fatigueModified":309,
+        "magickaModified":110,
+        "magickaBase":110,
+        "healthCurrent":285,
+        "magickaCurrent":110
+      },
+      "refId":"imperial guard",
+      "location":{
+        "rotX":-0.021240681409836,
+        "posY":-72710.5859375,
+        "posX":-11499.684570312,
+        "posZ":118.97999572754,
+        "rotZ":0.055349826812744,
+        "rotY":0
+      }
+    },
     "341046-0":{
       "location":{
         "rotX":0,
         "posY":-67530.90625,
-        "posX":-15098.419921875,
-        "posZ":22.619743347168,
+        "posX":-15098.42578125,
+        "posZ":22.620101928711,
         "rotZ":0,
         "rotY":0
       },
@@ -341,6 +348,10 @@
         "healthCurrent":0,
         "magickaCurrent":5
       }
+    },
+    "113954-0":{
+      "lockLevel":0,
+      "refId":"ex_de_shack_door"
     },
     "445161-0":{
       "state":false,
@@ -373,11 +384,59 @@
         "magickaCurrent":189
       },
       "location":{
-        "rotX":0.059351779520512,
-        "posY":-71341.5390625,
-        "posX":-11388.348632812,
-        "posZ":190.21096801758,
-        "rotZ":2.9756605625153,
+        "rotX":-0.12310670316219,
+        "posY":-71802.1171875,
+        "posX":-11964.306640625,
+        "posZ":79.806945800781,
+        "rotZ":1.7332055568695,
+        "rotY":0
+      }
+    },
+    "266721-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_03"
+    },
+    "297461-0":{
+      "inventory":[{
+          "refId":"steel_shield",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"chargen_crate_01_misc01",
+      "state":false
+    },
+    "128962-0":{
+      "equipment":[null,null,null,null,null,null,{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"common_shirt_05",
+          "count":1,
+          "charge":-1
+        },{
+          "refId":"common_pants_04",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"vodunius nuccius",
+      "stats":{
+        "fatigueCurrent":162,
+        "healthBase":63,
+        "fatigueBase":162,
+        "healthModified":63,
+        "fatigueModified":162,
+        "magickaModified":86,
+        "magickaBase":86,
+        "healthCurrent":63,
+        "magickaCurrent":86
+      },
+      "location":{
+        "rotX":-0.21952658891678,
+        "posY":-71992.6171875,
+        "posX":-11811.107421875,
+        "posZ":69.988349914551,
+        "rotZ":0.97054123878479,
         "rotY":0
       }
     },
@@ -437,6 +496,11 @@
           "refId":"imperial helmet armor",
           "count":1,
           "charge":-1
+        },
+        "17":{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1
         }
       },
       "stats":{
@@ -451,102 +515,14 @@
         "magickaCurrent":110
       },
       "location":{
-        "rotX":-0.10683251917362,
-        "posY":-68181.875,
-        "posX":-11586.180664062,
-        "posZ":305,
-        "rotZ":-1.3553297519684,
+        "rotX":0.011980663985014,
+        "posY":-68827.03125,
+        "posX":-11400.69921875,
+        "posZ":217.80609130859,
+        "rotZ":3.1077272891998,
         "rotY":0
       },
       "refId":"imperial guard"
-    },
-    "297461-0":{
-      "inventory":[{
-          "refId":"steel_shield",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"chargen_crate_01_misc01",
-      "state":false
-    },
-    "128962-0":{
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_shirt_05",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_pants_04",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"vodunius nuccius",
-      "stats":{
-        "fatigueCurrent":162,
-        "healthBase":63,
-        "fatigueBase":162,
-        "healthModified":63,
-        "fatigueModified":162,
-        "magickaModified":86,
-        "magickaBase":86,
-        "healthCurrent":63,
-        "magickaCurrent":86
-      },
-      "location":{
-        "rotX":0.14969009160995,
-        "posY":-71915.1484375,
-        "posX":-11427.619140625,
-        "posZ":168.44877624512,
-        "rotZ":-2.3359158039093,
-        "rotY":0
-      }
-    },
-    "128960-0":{
-      "equipment":{
-        "8":{
-          "refId":"common_shirt_04_a",
-          "count":1,
-          "charge":-1
-        },
-        "12":{
-          "refId":"common_ring_04",
-          "count":1,
-          "charge":-1
-        },
-        "7":{
-          "refId":"common_shoes_04",
-          "count":1,
-          "charge":-1
-        },
-        "9":{
-          "refId":"common_pants_03_c",
-          "count":1,
-          "charge":-1
-        }
-      },
-      "refId":"erene llenim",
-      "stats":{
-        "fatigueCurrent":169,
-        "healthBase":57,
-        "fatigueBase":169,
-        "healthModified":57,
-        "fatigueModified":169,
-        "magickaModified":84,
-        "magickaBase":84,
-        "healthCurrent":57,
-        "magickaCurrent":84
-      },
-      "location":{
-        "rotX":0.0013949032872915,
-        "posY":-72010.921875,
-        "posX":-13848.662109375,
-        "posZ":56.60319519043,
-        "rotZ":-0.87647557258606,
-        "rotY":0
-      }
     },
     "484257-0":{
       "state":false,
@@ -564,51 +540,16 @@
       "state":false,
       "refId":"chargencollision - extra"
     },
-    "270747-0":{
-      "equipment":[null,null,null,null,null,null,{
-          "refId":"common_shoes_05",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_shirt_02_h",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_pants_03",
-          "count":1,
-          "charge":-1
-        },{
-          "refId":"common_skirt_03",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"teleri helvi",
-      "stats":{
-        "fatigueCurrent":162,
-        "healthBase":58,
-        "fatigueBase":162,
-        "healthModified":58,
-        "fatigueModified":162,
-        "magickaModified":86,
-        "magickaBase":86,
-        "healthCurrent":58,
-        "magickaCurrent":86
-      },
-      "location":{
-        "rotX":-0.04508650302887,
-        "posY":-71095.8828125,
-        "posX":-11154.0546875,
-        "posZ":205.564453125,
-        "rotZ":0.48275327682495,
-        "rotY":0
-      }
+    "172851-0":{
+      "inventory":[],
+      "refId":"chargen barrel fatigue"
     },
     "0-32":{
       "location":{
         "rotX":0.99033606052399,
-        "posY":-71858.96875,
-        "posX":-12422.875,
-        "posZ":32.187927246094,
+        "posY":-71858.953125,
+        "posX":-12422.873046875,
+        "posZ":32.190002441406,
         "rotZ":-2.8762290477753,
         "rotY":0
       },
@@ -670,46 +611,63 @@
         "magickaCurrent":80
       },
       "location":{
-        "rotX":-0.013712623156607,
-        "posY":-71103.5625,
-        "posX":-12915.555664062,
-        "posZ":30.235317230225,
-        "rotZ":-3.0174114704132,
+        "rotX":-0.1287200152874,
+        "posY":-71824.4140625,
+        "posX":-11792.716796875,
+        "posZ":100.56698608398,
+        "rotZ":1.7698786258698,
         "rotY":0
       }
     },
-    "266735-0":{
-      "inventory":[{
-          "refId":"ingred_bc_hypha_facia",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_shelffungus_04"
+    "479183-0":{
+      "inventory":[],
+      "refId":"flora_treestump_unique"
     },
     "266739-0":{
       "inventory":[],
       "refId":"flora_bc_mushroom_08"
     },
-    "128964-0":{
-      "equipment":[],
-      "refId":"fargoth",
+    "128960-0":{
+      "equipment":{
+        "8":{
+          "refId":"common_shirt_04_a",
+          "count":1,
+          "charge":-1
+        },
+        "12":{
+          "refId":"common_ring_04",
+          "count":1,
+          "charge":-1
+        },
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1
+        },
+        "9":{
+          "refId":"common_pants_03_c",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "refId":"erene llenim",
       "stats":{
-        "fatigueCurrent":154,
-        "healthBase":0,
-        "fatigueBase":154,
-        "healthModified":0,
-        "fatigueModified":154,
-        "magickaModified":82,
-        "magickaBase":82,
-        "healthCurrent":0,
-        "magickaCurrent":82
+        "fatigueCurrent":169,
+        "healthBase":57,
+        "fatigueBase":169,
+        "healthModified":57,
+        "fatigueModified":169,
+        "magickaModified":84,
+        "magickaBase":84,
+        "healthCurrent":57,
+        "magickaCurrent":84
       },
       "location":{
-        "rotX":0,
-        "posY":-68124.96875,
-        "posX":-11678.0234375,
-        "posZ":317.39715576172,
-        "rotZ":1.9707964658737,
+        "rotX":0.064045816659927,
+        "posY":-72046.0625,
+        "posX":-13749.388671875,
+        "posZ":52.873519897461,
+        "rotZ":2.2944266796112,
         "rotY":0
       }
     },
@@ -773,17 +731,13 @@
       "refId":"chargen boat guard 1",
       "state":false
     },
-    "479183-0":{
-      "inventory":[],
-      "refId":"flora_treestump_unique"
+    "397559-0":{
+      "state":false,
+      "refId":"chargen_plank"
     },
     "484254-0":{
       "state":false,
       "refId":"chargencollision - extra"
-    },
-    "266738-0":{
-      "inventory":[],
-      "refId":"flora_bc_mushroom_08"
     },
     "270748-0":{
       "equipment":[null,null,null,null,null,null,{
@@ -813,34 +767,98 @@
       },
       "location":{
         "rotX":0,
-        "posY":-70215.25,
-        "posX":-8619.380859375,
+        "posY":-70155.0703125,
+        "posX":-8621.7109375,
         "posZ":823.21862792969,
-        "rotZ":0.20000000298023,
+        "rotZ":0.0082240104675293,
         "rotY":0
       }
     },
-    "397559-0":{
-      "state":false,
-      "refId":"chargen_plank"
+    "128964-0":{
+      "equipment":[],
+      "refId":"fargoth",
+      "stats":{
+        "fatigueCurrent":154,
+        "healthBase":0,
+        "fatigueBase":154,
+        "healthModified":0,
+        "fatigueModified":154,
+        "magickaModified":82,
+        "magickaBase":82,
+        "healthCurrent":0,
+        "magickaCurrent":82
+      },
+      "location":{
+        "rotX":0,
+        "posY":-68124.96875,
+        "posX":-11678.0234375,
+        "posZ":317.39715576172,
+        "rotZ":1.9707963466644,
+        "rotY":0
+      }
     },
-    "266721-0":{
-      "inventory":[],
-      "refId":"flora_bc_mushroom_03"
+    "0-126":{
+      "location":{
+        "rotX":0.10051963478327,
+        "posY":-68115.2734375,
+        "posX":-11676.765625,
+        "posZ":317.75537109375,
+        "rotZ":2.6283404827118,
+        "rotY":0
+      },
+      "refId":"fargoth",
+      "equipment":{
+        "7":{
+          "refId":"common_shoes_04",
+          "count":1,
+          "charge":-1
+        },
+        "8":{
+          "refId":"common_shirt_04",
+          "count":1,
+          "charge":-1
+        },
+        "12":{
+          "refId":"ring_keley",
+          "count":2,
+          "charge":-1
+        },
+        "9":{
+          "refId":"common_pants_04",
+          "count":1,
+          "charge":-1
+        },
+        "17":{
+          "refId":"torch_infinite_time",
+          "count":1,
+          "charge":-1
+        }
+      },
+      "stats":{
+        "fatigueCurrent":154,
+        "healthBase":41,
+        "fatigueBase":154,
+        "healthModified":41,
+        "fatigueModified":154,
+        "magickaModified":82,
+        "magickaBase":82,
+        "healthCurrent":41,
+        "magickaCurrent":82
+      }
     }
   },
   "packets":{
     "delete":["128964-0"],
     "container":["297461-0","479183-0","172851-0","266721-0","266723-0","266734-0","266735-0","266738-0","266739-0","266740-0","0-32"],
-    "equipment":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","128967-0","128966-0","0-126","128964-0"],
+    "equipment":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","0-126","128964-0","128966-0","128967-0"],
     "place":[],
     "cellChangeTo":[],
-    "statsDynamic":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","341046-0","0-32","128967-0","128966-0","0-126","128964-0"],
+    "statsDynamic":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","341046-0","0-32","0-126","128964-0","128966-0","128967-0"],
     "cellChangeFrom":[],
     "trap":[],
-    "lock":[],
-    "actorList":["128960-0","128961-0","128962-0","128963-0","128965-0","172852-0","270747-0","270748-0","172848-0","341046-0","0-32","128967-0","128966-0","0-126"],
-    "position":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","341046-0","0-32","128967-0","128966-0","0-126","128964-0"],
+    "position":["128960-0","128961-0","128962-0","128963-0","128965-0","172848-0","172852-0","270747-0","270748-0","341046-0","0-32","0-126","128964-0","128966-0","128967-0"],
+    "lock":["113954-0","113957-0"],
+    "actorList":["128960-0","128961-0","128962-0","128963-0","128965-0","172852-0","270747-0","270748-0","172848-0","341046-0","0-32","0-126","128966-0","128967-0"],
     "doorState":[],
     "state":["445161-0","445162-0","445163-0","445164-0","484254-0","484255-0","484256-0","484257-0","445168-0","172850-0","172848-0","172852-0","297461-0","289104-0","397559-0"],
     "scale":[],

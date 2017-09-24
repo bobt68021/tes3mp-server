@@ -3,49 +3,72 @@
     "description":"-4, -7"
   },
   "lastVisit":{
-    "Vakaria":1506050295,
-    "Konoroth":1506050295,
-    "bob":1506050293
+    "Bob":1506203969,
+    "bob":1506050293,
+    "Konoroth":1506203966,
+    "Vakaria":1506203970
   },
   "objectData":{
     "0-95":{
       "location":{
-        "rotX":-0.80466663837433,
-        "posY":-54377.5,
-        "posX":-26310.515625,
-        "posZ":1904.7810058594,
-        "rotZ":-2.7027943134308,
+        "rotX":-0.054131519049406,
+        "posY":-53966.41796875,
+        "posX":-26228.5,
+        "posZ":1708.2783203125,
+        "rotZ":1.8950321674347,
         "rotY":0
       },
-      "refId":"kwama forager"
+      "refId":"kwama forager",
+      "stats":{
+        "fatigueCurrent":300,
+        "healthBase":23,
+        "fatigueBase":300,
+        "healthModified":23,
+        "fatigueModified":300,
+        "magickaModified":15,
+        "magickaBase":15,
+        "healthCurrent":23,
+        "magickaCurrent":15
+      }
     },
     "0-94":{
       "location":{
-        "rotX":-0.31494334340096,
-        "posY":-52296.33984375,
-        "posX":-28893.76953125,
-        "posZ":839.54992675781,
-        "rotZ":1.8992130756378,
+        "rotX":0.98716425895691,
+        "posY":-52504.1171875,
+        "posX":-28471.3359375,
+        "posZ":960.38171386719,
+        "rotZ":1.8598701953888,
         "rotY":0
       },
-      "refId":"scrib"
+      "refId":"scrib",
+      "stats":{
+        "fatigueCurrent":300,
+        "healthBase":8,
+        "fatigueBase":300,
+        "healthModified":8,
+        "fatigueModified":300,
+        "magickaModified":12,
+        "magickaBase":12,
+        "healthCurrent":8,
+        "magickaCurrent":12
+      }
     }
   },
   "packets":{
     "delete":[],
-    "actorList":["0-94","0-95"],
-    "position":["0-94","0-95"],
+    "spawn":["0-94","0-95"],
+    "scale":[],
     "place":[],
     "cellChangeTo":[],
-    "statsDynamic":[],
+    "statsDynamic":["0-94","0-95"],
     "cellChangeFrom":[],
     "trap":[],
-    "equipment":[],
-    "container":[],
-    "lock":[],
-    "doorState":[],
     "state":[],
-    "scale":[],
-    "spawn":["0-94","0-95"]
+    "doorState":[],
+    "position":["0-94","0-95"],
+    "actorList":["0-94","0-95"],
+    "lock":[],
+    "equipment":[],
+    "container":[]
   }
 }

@@ -19,50 +19,50 @@
   "customClass":{
     "description":"",
     "majorAttributes":"Intelligence, Willpower",
-    "specialization":1,
+    "minorSkills":"Illusion, Unarmored, Bluntweapon, Mysticism, Handtohand",
     "name":"High Mage",
     "majorSkills":"Destruction, Alteration, Conjuration, Alchemy, Restoration",
-    "minorSkills":"Illusion, Unarmored, Bluntweapon, Mysticism, Handtohand"
+    "specialization":1
   },
   "location":{
-    "cell":"-2, -9",
-    "posX":-11385.509765625,
-    "posY":-70554.7734375,
-    "posZ":239.84645080566,
-    "rotX":0.054169893264771,
-    "rotZ":2.2401773929596
+    "cell":"Balmora, Guild of Fighters",
+    "posX":282.82070922852,
+    "posY":255.99989318848,
+    "posZ":-122.00033569336,
+    "rotX":-0.000152587890625,
+    "rotZ":-3.1416797637939
   },
   "stats":{
     "healthBase":35,
-    "healthCurrent":31.802782058716,
-    "magickaBase":240,
-    "magickaCurrent":240,
-    "fatigueBase":160,
-    "fatigueCurrent":158.85977172852,
+    "healthCurrent":35,
+    "magickaBase":280,
+    "magickaCurrent":111,
+    "fatigueBase":170,
+    "fatigueCurrent":165.84048461914,
     "bounty":0,
-    "levelProgress":2,
-    "level":1
+    "level":1,
+    "levelProgress":6
   },
   "shapeshift":[],
   "attributes":{
-    "Strength":30,
+    "Luck":40,
     "Agility":40,
     "Endurance":40,
-    "Intelligence":60,
+    "Personality":40,
     "Speed":30,
     "Willpower":50,
-    "Personality":40,
-    "Luck":40
+    "Strength":30,
+    "Intelligence":60
   },
   "attributeSkillIncreases":{
-    "Strength":8,
+    "Luck":0,
     "Agility":0,
-    "Endurance":0,
-    "Intelligence":0,
-    "Speed":3,
-    "Willpower":1,
-    "Personality":0,
-    "Luck":0
+    "Endurance":1,
+    "Personality":1,
+    "Speed":11,
+    "Willpower":4,
+    "Strength":21,
+    "Intelligence":0
   },
   "skills":{
     "Enchant":20,
@@ -72,55 +72,55 @@
     "Mediumarmor":5,
     "Marksman":5,
     "Armorer":4,
-    "Illusion":25,
+    "Security":5,
     "Block":5,
     "Restoration":34,
     "Lightarmor":5,
-    "Shortblade":5,
-    "Spear":5,
-    "Athletics":7,
-    "Sneak":5,
+    "Shortblade":6,
+    "Axe":5,
+    "Athletics":13,
+    "Mercantile":5,
     "Alchemy":45,
     "Mysticism":19,
     "Bluntweapon":15,
     "Longblade":4,
-    "Unarmored":21,
-    "Destruction":46,
+    "Unarmored":22,
+    "Acrobatics":26,
+    "Destruction":49,
     "Heavyarmor":5,
-    "Acrobatics":13,
     "Alteration":40,
-    "Mercantile":4,
-    "Axe":5,
-    "Security":5
+    "Sneak":5,
+    "Spear":6,
+    "Illusion":25
   },
   "skillProgress":{
     "Enchant":0,
     "Speechcraft":0,
-    "Handtohand":0,
-    "Conjuration":3,
+    "Handtohand":5,
+    "Conjuration":20,
     "Mediumarmor":0,
     "Marksman":0,
     "Armorer":0,
-    "Illusion":0,
+    "Security":0,
     "Block":0,
-    "Restoration":1,
+    "Restoration":6,
     "Lightarmor":0,
-    "Shortblade":0.75,
-    "Spear":0,
-    "Athletics":6.879994392395,
-    "Sneak":0,
+    "Shortblade":5.25,
+    "Axe":0,
+    "Athletics":4.6799964904785,
+    "Mercantile":4.8000001907349,
     "Alchemy":0,
     "Mysticism":0,
     "Bluntweapon":0,
     "Longblade":0,
-    "Unarmored":4,
-    "Destruction":14,
+    "Unarmored":12,
+    "Acrobatics":30.149948120117,
+    "Destruction":28,
     "Heavyarmor":0,
-    "Acrobatics":0,
-    "Alteration":2,
-    "Mercantile":1.5,
-    "Axe":0,
-    "Security":0
+    "Alteration":12,
+    "Sneak":0.25,
+    "Spear":0,
+    "Illusion":0
   },
   "equipment":{
     "8":{
@@ -128,15 +128,15 @@
       "count":1,
       "charge":-1
     },
-    "11":{
-      "refId":"extravagant_robe_01_t",
+    "12":{
+      "refId":"ring_mentor_unique",
       "count":1,
       "charge":-1
     },
     "7":{
-      "refId":"common_shoes_01",
+      "refId":"extravagant_shoes_01",
       "count":1,
-      "charge":-1
+      "charge":1
     },
     "9":{
       "refId":"common_pants_01",
@@ -146,78 +146,273 @@
   },
   "inventory":{
     "1":{
-      "refId":"sc_icarianflight",
-      "count":3,
+      "refId":"p_fortify_willpower_s",
+      "count":5,
       "charge":-1
     },
     "2":{
-      "refId":"common_shirt_01",
-      "count":1,
+      "refId":"p_restore_magicka_c",
+      "count":6,
       "charge":-1
     },
     "3":{
-      "refId":"common_pants_01",
+      "refId":"p_lightning shield_e",
       "count":1,
       "charge":-1
     },
     "4":{
-      "refId":"common_shoes_01",
+      "refId":"p_frost_shield_e",
       "count":1,
       "charge":-1
     },
     "5":{
-      "refId":"extravagant_robe_01_t",
-      "count":1,
+      "refId":"p_spell_absorption_e",
+      "count":2,
       "charge":-1
     },
     "6":{
-      "refId":"common_shoes_04",
+      "refId":"p_fire_shield_e",
       "count":1,
       "charge":-1
     },
     "7":{
-      "refId":"common_shirt_04",
+      "refId":"p_restore_willpower_e",
       "count":1,
       "charge":-1
     },
     "8":{
-      "refId":"common_pants_04",
-      "count":1,
+      "refId":"sc_icarianflight",
+      "count":3,
       "charge":-1
     },
     "9":{
-      "refId":"common_ring_04",
+      "refId":"bk_a1_1_caiuspackage",
       "count":1,
       "charge":-1
     },
     "10":{
-      "refId":"ingred_bc_ampoule_pod",
-      "count":2,
+      "refId":"sc_ondusisunhinging",
+      "count":1,
       "charge":-1
     },
     "11":{
-      "refId":"ingred_bread_01",
+      "refId":"sc_summonflameatronach",
       "count":1,
-      "charge":0
+      "charge":-1
     },
     "12":{
-      "refId":"light_com_lantern_02",
+      "refId":"sc_divineintervention",
       "count":1,
       "charge":-1
     },
     "13":{
-      "refId":"light_com_lantern_02_128",
+      "refId":"sc_almsiviintervention",
       "count":1,
-      "charge":1130102784
-    },
-    "14":{
-      "refId":"gold_001",
-      "count":300,
       "charge":-1
     },
-    "0":{
-      "refId":"bk_a1_1_caiuspackage",
+    "14":{
+      "refId":"sc_daydenespanacea",
+      "count":3,
+      "charge":-1
+    },
+    "15":{
+      "refId":"bk_spiritofthedaedra",
       "count":1,
+      "charge":-1
+    },
+    "16":{
+      "refId":"bk_bookofdaedra",
+      "count":1,
+      "charge":-1
+    },
+    "17":{
+      "refId":"sc_hellfire",
+      "count":1,
+      "charge":-1
+    },
+    "18":{
+      "refId":"sc_lesserdomination",
+      "count":1,
+      "charge":-1
+    },
+    "19":{
+      "refId":"bk_originofthemagesguild",
+      "count":1,
+      "charge":1
+    },
+    "20":{
+      "refId":"bk_pilgrimspath",
+      "count":1,
+      "charge":-1
+    },
+    "21":{
+      "refId":"common_shirt_01",
+      "count":1,
+      "charge":-1
+    },
+    "22":{
+      "refId":"common_pants_01",
+      "count":1,
+      "charge":-1
+    },
+    "23":{
+      "refId":"common_shoes_01",
+      "count":1,
+      "charge":-1
+    },
+    "24":{
+      "refId":"extravagant_robe_01_t",
+      "count":1,
+      "charge":-1
+    },
+    "25":{
+      "refId":"ring_mentor_unique",
+      "count":1,
+      "charge":-1
+    },
+    "26":{
+      "refId":"extravagant_shoes_01",
+      "count":1,
+      "charge":1
+    },
+    "27":{
+      "refId":"ingred_bc_ampoule_pod",
+      "count":2,
+      "charge":-1
+    },
+    "28":{
+      "refId":"ingred_bread_01",
+      "count":1,
+      "charge":0
+    },
+    "29":{
+      "refId":"ingred_bloat_01",
+      "count":1,
+      "charge":-1
+    },
+    "30":{
+      "refId":"ingred_muck_01",
+      "count":1,
+      "charge":-1
+    },
+    "31":{
+      "refId":"ingred_racer_plumes_01",
+      "count":1,
+      "charge":-1
+    },
+    "32":{
+      "refId":"ingred_crab_meat_01",
+      "count":1,
+      "charge":-1
+    },
+    "33":{
+      "refId":"ingred_kresh_fiber_01",
+      "count":1,
+      "charge":-1
+    },
+    "34":{
+      "refId":"ingred_bc_spore_pod",
+      "count":3,
+      "charge":-1
+    },
+    "35":{
+      "refId":"ingred_ectoplasm_01",
+      "count":1,
+      "charge":-1
+    },
+    "36":{
+      "refId":"food_kwama_egg_02",
+      "count":1,
+      "charge":-1
+    },
+    "37":{
+      "refId":"light_de_candle_14_64",
+      "count":2,
+      "charge":1123024896
+    },
+    "38":{
+      "refId":"light_de_candle_11_64",
+      "count":1,
+      "charge":1123024896
+    },
+    "39":{
+      "refId":"light_de_candle_03_64",
+      "count":1,
+      "charge":1123024896
+    },
+    "40":{
+      "refId":"torch_128",
+      "count":4,
+      "charge":1129447424
+    },
+    "41":{
+      "refId":"gold_001",
+      "count":543,
+      "charge":-1
+    },
+    "42":{
+      "refId":"misc_soulgem_petty",
+      "count":5,
+      "charge":-1
+    },
+    "43":{
+      "refId":"misc_soulgem_lesser",
+      "count":6,
+      "charge":-1
+    },
+    "44":{
+      "refId":"misc_soulgem_petty",
+      "count":1,
+      "charge":0
+    },
+    "45":{
+      "refId":"misc_soulgem_petty",
+      "count":1,
+      "charge":0
+    },
+    "46":{
+      "refId":"misc_soulgem_lesser",
+      "count":1,
+      "charge":0
+    },
+    "47":{
+      "refId":"misc_soulgem_greater",
+      "count":1,
+      "charge":0
+    },
+    "48":{
+      "refId":"misc_soulgem_grand",
+      "count":1,
+      "charge":0
+    },
+    "49":{
+      "refId":"misc_soulgem_lesser",
+      "count":1,
+      "charge":0
+    },
+    "50":{
+      "refId":"misc_soulgem_common",
+      "count":1,
+      "charge":0
+    },
+    "51":{
+      "refId":"misc_soulgem_common",
+      "count":1,
+      "charge":0
+    },
+    "52":{
+      "refId":"misc_soulgem_petty",
+      "count":1,
+      "charge":0
+    },
+    "53":{
+      "refId":"silver dagger",
+      "count":1,
+      "charge":371
+    },
+    "0":{
+      "refId":"p_restore_magicka_s",
+      "count":9,
       "charge":-1
     }
   },
@@ -235,12 +430,32 @@
       "spellId":"fire bite"
     },{
       "spellId":"fireball"
+    },{
+      "spellId":"spark"
+    },{
+      "spellId":"tinur's hoptoad"
+    },{
+      "spellId":"earwig"
+    },{
+      "spellId":"frostbite"
+    },{
+      "spellId":"paralysis"
+    },{
+      "spellId":"poisonous touch"
+    },{
+      "spellId":"cure common disease"
+    },{
+      "spellId":"heal companion"
+    },{
+      "spellId":"rest of st. merris"
+    },{
+      "spellId":"veloth's grace"
     }],
-  "books":["bookskill_unarmored1"],
+  "books":["bookskill_unarmored1","bookskill_mercantile4","bookskill_spear3","bookskill_unarmored5"],
   "factionRanks":[],
   "factionReputation":[],
   "factionExpulsion":[],
-  "mapExplored":["-2, -9","-2, -10","-2, -8","-3, -8","-1, -9","4, -13"],
+  "mapExplored":["-2, -9","-2, -10","-2, -8","-3, -8","-1, -9","4, -13","-3, -3","-3, -2","-2, -2","-4, -2","-3, -9","-4, -8","-4, -3","-4, -4"],
   "ipAddresses":["192.168.1.1"],
   "customVariables":[]
 }

@@ -4,68 +4,18 @@
   },
   "lastVisit":{
     "bob":1506050293,
-    "Konoroth":1506050295,
-    "Vakaria":1506050295
+    "Vakaria":1506203970,
+    "Konoroth":1506203966,
+    "Bob":1506203969
   },
   "objectData":{
-    "267567-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_04"
-    },
-    "0-93":{
-      "location":{
-        "rotX":6.7036598920822e-006,
-        "posY":-63619.25,
-        "posX":-29700.625,
-        "posZ":-669.02581787109,
-        "rotZ":-2.7690026760101,
-        "rotY":0
-      },
-      "refId":"slaughterfish_small"
-    },
-    "267472-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_01"
-    },
-    "267569-0":{
-      "inventory":[{
-          "refId":"ingred_coprinus_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_08"
-    },
-    "267568-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":2,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_02"
-    },
-    "267566-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_01"
-    },
     "0-25":{
       "location":{
-        "rotX":-0.11979859322309,
-        "posY":-63706.91796875,
-        "posX":-24576.27734375,
-        "posZ":348.53628540039,
-        "rotZ":2.394698381424,
+        "rotX":0.18035908043385,
+        "posY":-61723.69921875,
+        "posX":-25493.224609375,
+        "posZ":394.484375,
+        "rotZ":-0.28490328788757,
         "rotY":0
       },
       "refId":"cliff racer",
@@ -81,6 +31,75 @@
         "magickaCurrent":20
       }
     },
+    "0-93":{
+      "location":{
+        "rotX":0.15234161913395,
+        "posY":-63431.078125,
+        "posX":-30109.404296875,
+        "posZ":-572.66876220703,
+        "rotZ":1.1681392192841,
+        "rotY":0
+      },
+      "refId":"slaughterfish_small",
+      "stats":{
+        "fatigueCurrent":299.94122314453,
+        "healthBase":15,
+        "fatigueBase":300,
+        "healthModified":15,
+        "fatigueModified":300,
+        "magickaModified":10,
+        "magickaBase":10,
+        "healthCurrent":15,
+        "magickaCurrent":10
+      }
+    },
+    "267472-0":{
+      "inventory":[{
+          "refId":"ingred_russula_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"flora_bc_mushroom_01"
+    },
+    "267569-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_08"
+    },
+    "267568-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_02"
+    },
+    "267566-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_01"
+    },
+    "0-29":{
+      "location":{
+        "rotX":-0.023422656580806,
+        "posY":-62220,
+        "posX":-24588.0625,
+        "posZ":848.45373535156,
+        "rotZ":1.0999286174774,
+        "rotY":0
+      },
+      "refId":"mudcrab",
+      "stats":{
+        "fatigueCurrent":398.44094848633,
+        "healthBase":15,
+        "fatigueBase":400,
+        "healthModified":15,
+        "fatigueModified":400,
+        "magickaModified":5,
+        "magickaBase":5,
+        "healthCurrent":0,
+        "magickaCurrent":5
+      },
+      "inventory":[]
+    },
+    "267536-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_05"
+    },
     "267471-0":{
       "inventory":[{
           "refId":"ingred_russula_01",
@@ -89,38 +108,30 @@
         }],
       "refId":"flora_bc_mushroom_05"
     },
-    "267536-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"flora_bc_mushroom_05"
+    "267567-0":{
+      "inventory":[],
+      "refId":"flora_bc_mushroom_04"
     },
     "267538-0":{
-      "inventory":[{
-          "refId":"ingred_russula_01",
-          "count":1,
-          "charge":-1
-        }],
+      "inventory":[],
       "refId":"flora_bc_mushroom_01"
     }
   },
   "packets":{
     "delete":[],
-    "spawn":["0-93","0-25"],
+    "spawn":["0-93","0-29","0-25"],
     "scale":[],
     "place":[],
     "cellChangeTo":[],
-    "statsDynamic":["0-25"],
+    "statsDynamic":["0-93","0-29","0-25"],
     "cellChangeFrom":[],
     "trap":[],
     "state":[],
     "doorState":[],
-    "actorList":["0-93","0-25"],
+    "position":["0-93","0-29","0-25"],
+    "actorList":["0-93","0-29","0-25"],
     "lock":[],
-    "position":["0-93","0-25"],
     "equipment":[],
-    "container":["267471-0","267472-0","267536-0","267538-0","267566-0","267567-0","267568-0","267569-0"]
+    "container":["267471-0","267472-0","267536-0","267538-0","267566-0","267567-0","267568-0","267569-0","0-29"]
   }
 }

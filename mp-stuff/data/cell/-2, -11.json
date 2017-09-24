@@ -3,19 +3,33 @@
     "description":"-2, -11"
   },
   "lastVisit":{
-    "Vakaria":1506052068,
+    "Bob":1506205484,
     "bob":1506049302,
-    "Konoroth":1506052150,
-    "Bob":1506052145
+    "Konoroth":1506205485,
+    "Vakaria":1506205483
   },
   "objectData":{
-    "463168-0":{
-      "inventory":[{
-          "refId":"ingred_pearl_01",
-          "count":1,
-          "charge":-1
-        }],
-      "refId":"kollop_02_pearl"
+    "0-64":{
+      "location":{
+        "rotX":0,
+        "posY":-89919.53125,
+        "posX":-9065.57421875,
+        "posZ":-559.54223632812,
+        "rotZ":0.70796275138855,
+        "rotY":0
+      },
+      "refId":"slaughterfish",
+      "stats":{
+        "fatigueCurrent":399.92370605469,
+        "healthBase":23,
+        "fatigueBase":400,
+        "healthModified":23,
+        "fatigueModified":400,
+        "magickaModified":10,
+        "magickaBase":10,
+        "healthCurrent":23,
+        "magickaCurrent":10
+      }
     },
     "463164-0":{
       "inventory":[{
@@ -32,15 +46,15 @@
     "0-60":{
       "location":{
         "rotX":0,
-        "posY":-85754.3828125,
-        "posX":-13134.1328125,
-        "posZ":-777.54919433594,
-        "rotZ":-1.4594881534576,
+        "posY":-85809.5390625,
+        "posX":-12868.09375,
+        "posZ":-777.548828125,
+        "rotZ":2.4746844768524,
         "rotY":0
       },
       "refId":"slaughterfish",
       "stats":{
-        "fatigueCurrent":399.97341918945,
+        "fatigueCurrent":399.92370605469,
         "healthBase":23,
         "fatigueBase":400,
         "healthModified":23,
@@ -57,16 +71,16 @@
     },
     "0-62":{
       "location":{
-        "rotX":2.1550804376602e-005,
-        "posY":-87116.8984375,
-        "posX":-11094.75390625,
-        "posZ":-1142.009765625,
-        "rotZ":1.2887761592865,
+        "rotX":-1.7379410564899e-005,
+        "posY":-86585.75,
+        "posX":-11837.78125,
+        "posZ":-1142.0114746094,
+        "rotZ":-0.95054697990417,
         "rotY":0
       },
       "refId":"slaughterfish_small",
       "stats":{
-        "fatigueCurrent":299.97341918945,
+        "fatigueCurrent":299.92370605469,
         "healthBase":15,
         "fatigueBase":300,
         "healthModified":15,
@@ -77,40 +91,26 @@
         "magickaCurrent":10
       }
     },
-    "0-64":{
-      "location":{
-        "rotX":0,
-        "posY":-89919.546875,
-        "posX":-9065.580078125,
-        "posZ":-559.54272460938,
-        "rotZ":0.70796275138855,
-        "rotY":0
-      },
-      "refId":"slaughterfish",
-      "stats":{
-        "fatigueCurrent":399.97341918945,
-        "healthBase":23,
-        "fatigueBase":400,
-        "healthModified":23,
-        "fatigueModified":400,
-        "magickaModified":10,
-        "magickaBase":10,
-        "healthCurrent":23,
-        "magickaCurrent":10
-      }
+    "463168-0":{
+      "inventory":[{
+          "refId":"ingred_pearl_01",
+          "count":1,
+          "charge":-1
+        }],
+      "refId":"kollop_02_pearl"
     },
     "0-59":{
       "location":{
-        "rotX":0.017035832628608,
-        "posY":-86798.3984375,
-        "posX":-8990.6796875,
-        "posZ":-146.98965454102,
-        "rotZ":0.77335047721863,
+        "rotX":5.3215771913528e-006,
+        "posY":-87487.2421875,
+        "posX":-9112.958984375,
+        "posZ":-146.00622558594,
+        "rotZ":2.8969485759735,
         "rotY":0
       },
       "refId":"slaughterfish",
       "stats":{
-        "fatigueCurrent":399.97341918945,
+        "fatigueCurrent":399.92370605469,
         "healthBase":23,
         "fatigueBase":400,
         "healthModified":23,
@@ -136,15 +136,15 @@
     "0-61":{
       "location":{
         "rotX":0,
-        "posY":-89913.59375,
-        "posX":-14687.171875,
-        "posZ":-938.11462402344,
+        "posY":-89913.6484375,
+        "posX":-14687.168945312,
+        "posZ":-938.1142578125,
         "rotZ":-2.4284517765045,
         "rotY":0
       },
       "refId":"slaughterfish",
       "stats":{
-        "fatigueCurrent":399.97341918945,
+        "fatigueCurrent":399.92370605469,
         "healthBase":23,
         "fatigueBase":400,
         "healthModified":23,
@@ -157,16 +157,16 @@
     },
     "0-63":{
       "location":{
-        "rotX":-0.065166443586349,
-        "posY":-82917.6875,
-        "posX":-13581.990234375,
-        "posZ":-1115.7008056641,
-        "rotZ":2.6487562656403,
+        "rotX":-0.004106130450964,
+        "posY":-83341.7421875,
+        "posX":-13200.763671875,
+        "posZ":-1114.9880371094,
+        "rotZ":2.191045999527,
         "rotY":0
       },
       "refId":"slaughterfish_small",
       "stats":{
-        "fatigueCurrent":299.97341918945,
+        "fatigueCurrent":299.92370605469,
         "healthBase":15,
         "fatigueBase":300,
         "healthModified":15,
@@ -180,19 +180,19 @@
   },
   "packets":{
     "delete":[],
-    "container":["463112-0","463127-0","463133-0","463158-0","463164-0","463168-0"],
-    "equipment":[],
+    "spawn":["0-60","0-61","0-62","0-63","0-64","0-59"],
+    "scale":[],
     "place":[],
     "cellChangeTo":[],
     "statsDynamic":["0-60","0-61","0-62","0-63","0-64","0-59"],
     "cellChangeFrom":[],
     "trap":[],
-    "lock":[],
-    "actorList":["0-60","0-61","0-62","0-63","0-64","0-59"],
-    "position":["0-63","0-61","0-62","0-64","0-60","0-59"],
-    "doorState":[],
     "state":[],
-    "scale":[],
-    "spawn":["0-60","0-61","0-62","0-63","0-64","0-59"]
+    "doorState":[],
+    "actorList":["0-60","0-61","0-62","0-63","0-64","0-59"],
+    "lock":[],
+    "position":["0-63","0-61","0-62","0-64","0-60","0-59"],
+    "equipment":[],
+    "container":["463112-0","463127-0","463133-0","463158-0","463164-0","463168-0"]
   }
 }

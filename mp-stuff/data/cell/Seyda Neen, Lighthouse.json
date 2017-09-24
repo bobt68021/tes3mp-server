@@ -4,9 +4,9 @@
   },
   "lastVisit":{
     "bob":1506049269,
-    "Bob":1506052131,
-    "Konoroth":1506052134,
-    "Vakaria":1506052043
+    "Bob":1506205472,
+    "Konoroth":1506205474,
+    "Vakaria":1506205470
   },
   "objectData":{
     "321452-0":{
@@ -66,9 +66,13 @@
         }],
       "refId":"com_sack_01_saltrice_10"
     },
-    "321447-0":{
-      "inventory":[],
-      "refId":"barrel_01"
+    "129161-0":{
+      "inventory":[{
+          "refId":"ingred_saltrice_01",
+          "count":10,
+          "charge":-1
+        }],
+      "refId":"com_sack_01_saltrice_10"
     },
     "129158-0":{
       "inventory":[{
@@ -178,10 +182,10 @@
       "refId":"thavere vedrano",
       "location":{
         "rotX":0,
-        "posY":-21.069076538086,
-        "posX":160.56735229492,
-        "posZ":-799.83209228516,
-        "rotZ":-1.5999987125397,
+        "posY":-18.723861694336,
+        "posX":148.3169708252,
+        "posZ":-799.83264160156,
+        "rotZ":-2.7166559696198,
         "rotY":0
       },
       "stats":{
@@ -214,13 +218,9 @@
     "369106-0":{
       "refId":"potion_comberry_brandy_01"
     },
-    "129161-0":{
-      "inventory":[{
-          "refId":"ingred_saltrice_01",
-          "count":10,
-          "charge":-1
-        }],
-      "refId":"com_sack_01_saltrice_10"
+    "321447-0":{
+      "inventory":[],
+      "refId":"barrel_01"
     },
     "321451-0":{
       "inventory":[{
@@ -242,9 +242,9 @@
     "trap":[],
     "state":[],
     "doorState":[],
+    "position":["129174-0"],
     "actorList":["129174-0"],
     "lock":[],
-    "position":["129174-0"],
     "equipment":["129174-0"],
     "container":["129156-0","129157-0","129158-0","129159-0","129160-0","129161-0","129162-0","321434-0","321435-0","321447-0","321451-0","321452-0","321450-0","321446-0"]
   }

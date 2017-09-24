@@ -1,0 +1,29 @@
+{
+  "entry":{
+    "description":"-2, -4"
+  },
+  "lastVisit":{
+    "Bob":1506207525,
+    "Konoroth":1506210559,
+    "Vakaria":1506210558
+  },
+  "objectData":{
+  },
+  "packets":{
+    "delete":[],
+    "container":[],
+    "equipment":[],
+    "place":[],
+    "cellChangeTo":[],
+    "statsDynamic":[],
+    "cellChangeFrom":[],
+    "trap":[],
+    "position":[],
+    "lock":[],
+    "actorList":[],
+    "doorState":[],
+    "state":[],
+    "scale":[],
+    "spawn":[]
+  }
+}

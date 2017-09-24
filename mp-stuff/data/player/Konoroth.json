@@ -19,303 +19,326 @@
   "customClass":{
     "description":"",
     "majorAttributes":"Strength, Endurance",
-    "specialization":0,
+    "minorSkills":"Restoration, Mediumarmor, Spear, Speechcraft, Athletics",
     "name":"Mercenary",
     "majorSkills":"Block, Armorer, Acrobatics, Heavyarmor, Axe",
-    "minorSkills":"Restoration, Mediumarmor, Spear, Speechcraft, Athletics"
+    "specialization":0
   },
   "location":{
-    "cell":"-2, -9",
-    "posX":-11533.880859375,
-    "posY":-67831.3671875,
-    "posZ":295.89157104492,
-    "rotX":0.14480829238892,
-    "rotZ":-1.7164874076843
+    "cell":"Balmora, Guild of Fighters",
+    "posX":255.38999938965,
+    "posY":242.33200073242,
+    "posZ":133.99989318848,
+    "rotX":-0.000152587890625,
+    "rotZ":-3.1416797637939
   },
   "stats":{
-    "healthBase":57,
-    "healthCurrent":30.91570854187,
+    "healthBase":75.400001525879,
+    "healthCurrent":75.400001525879,
     "magickaBase":30,
     "magickaCurrent":30,
-    "fatigueBase":200,
-    "fatigueCurrent":196.82070922852,
+    "fatigueBase":215,
+    "fatigueCurrent":160.29731750488,
     "bounty":0,
-    "levelProgress":3,
-    "level":1
+    "level":4,
+    "levelProgress":1
   },
   "shapeshift":[],
   "attributes":{
-    "Intelligence":30,
-    "Agility":35,
-    "Endurance":60,
-    "Strength":55,
-    "Speed":30,
-    "Willpower":50,
+    "Luck":40,
+    "Agility":40,
+    "Endurance":63,
     "Personality":30,
-    "Luck":40
+    "Speed":35,
+    "Willpower":50,
+    "Intelligence":30,
+    "Strength":62
   },
   "attributeSkillIncreases":{
-    "Intelligence":0,
+    "Luck":0,
     "Agility":0,
     "Endurance":0,
-    "Strength":2,
-    "Speed":2,
-    "Willpower":0,
     "Personality":0,
-    "Luck":0
+    "Speed":0,
+    "Willpower":0,
+    "Intelligence":0,
+    "Strength":1
   },
   "skills":{
     "Enchant":5,
-    "Axe":40,
+    "Axe":47,
     "Handtohand":5,
     "Conjuration":5,
     "Mediumarmor":30,
     "Marksman":5,
-    "Armorer":45,
-    "Illusion":5,
-    "Block":45,
+    "Armorer":46,
+    "Security":5,
+    "Block":47,
     "Restoration":15,
-    "Lightarmor":5,
+    "Lightarmor":6,
     "Shortblade":5,
-    "Spear":20,
-    "Athletics":21,
-    "Sneak":5,
+    "Speechcraft":15,
+    "Athletics":25,
+    "Mysticism":5,
     "Alchemy":5,
     "Mercantile":5,
     "Bluntweapon":10,
     "Longblade":10,
-    "Unarmored":6,
-    "Heavyarmor":45,
+    "Unarmored":8,
+    "Acrobatics":44,
+    "Heavyarmor":47,
     "Destruction":5,
-    "Acrobatics":32,
     "Alteration":5,
-    "Mysticism":5,
-    "Speechcraft":15,
-    "Security":5
+    "Sneak":5,
+    "Spear":20,
+    "Illusion":5
   },
   "skillProgress":{
-    "Enchant":0,
-    "Axe":0,
+    "Enchant":0.30000001192093,
+    "Axe":6,
     "Handtohand":0,
     "Conjuration":0,
-    "Mediumarmor":0,
+    "Mediumarmor":15,
     "Marksman":0,
     "Armorer":0,
-    "Illusion":0,
+    "Security":0,
     "Block":0,
-    "Restoration":0,
-    "Lightarmor":0,
+    "Restoration":3,
+    "Lightarmor":6,
     "Shortblade":0,
-    "Spear":0,
-    "Athletics":2.0799987316132,
-    "Sneak":0,
-    "Alchemy":0,
+    "Speechcraft":0,
+    "Athletics":15.30016040802,
+    "Mysticism":0,
+    "Alchemy":2.5,
     "Mercantile":0,
     "Bluntweapon":0,
-    "Longblade":4,
-    "Unarmored":4,
-    "Heavyarmor":0,
+    "Longblade":5,
+    "Unarmored":0,
+    "Acrobatics":26.24995803833,
+    "Heavyarmor":15,
     "Destruction":0,
-    "Acrobatics":8.7000017166138,
     "Alteration":0,
-    "Mysticism":0,
-    "Speechcraft":0,
-    "Security":0
+    "Sneak":0,
+    "Spear":0,
+    "Illusion":0
   },
-  "equipment":[{
-      "refId":"darkbrotherhood cuirass",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"darkbrotherhood greaves",
-      "count":1,
-      "charge":249
-    },{
-      "refId":"darkbrotherhood pauldron_l",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"darkbrotherhood pauldron_r",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"darkbrotherhood gauntlet_l",
-      "count":1,
-      "charge":99
-    },{
-      "refId":"darkbrotherhood gauntlet_r",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"darkbrotherhood boots",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"common_shirt_01",
-      "count":1,
-      "charge":-1
-    },{
-      "refId":"common_pants_01",
-      "count":1,
-      "charge":-1
-    },null,null,null,null,null,null,{
-      "refId":"iron sparksword",
-      "count":1,
-      "charge":691
-    }],
-  "inventory":{
+  "equipment":{
     "1":{
-      "refId":"darkbrotherhood greaves",
+      "refId":"imperial_chain_cuirass",
       "count":1,
-      "charge":249
+      "charge":-1
     },
     "2":{
-      "refId":"darkbrotherhood pauldron_r",
+      "refId":"steel_greaves",
       "count":1,
-      "charge":249
+      "charge":-1
     },
     "3":{
-      "refId":"darkbrotherhood pauldron_l",
+      "refId":"steel_pauldron_left",
       "count":1,
       "charge":-1
     },
     "4":{
-      "refId":"darkbrotherhood cuirass",
+      "refId":"steel_pauldron_right",
       "count":1,
-      "charge":299
+      "charge":-1
     },
     "5":{
-      "refId":"darkbrotherhood helm",
+      "refId":"steel_gauntlet_left",
       "count":1,
-      "charge":299
+      "charge":-1
     },
     "6":{
-      "refId":"netch_leather_boots",
-      "count":2,
+      "refId":"steel_gauntlet_right",
+      "count":1,
       "charge":-1
     },
     "7":{
-      "refId":"darkbrotherhood gauntlet_r",
+      "refId":"darkbrotherhood boots",
       "count":1,
-      "charge":-1
-    },
-    "8":{
-      "refId":"darkbrotherhood gauntlet_l",
-      "count":1,
-      "charge":99
-    },
-    "9":{
-      "refId":"sc_paper plain",
-      "count":1,
-      "charge":-1
-    },
-    "10":{
-      "refId":"bk_falljournal_unique",
-      "count":1,
-      "charge":-1
-    },
-    "11":{
-      "refId":"sc_icarianflight",
-      "count":3,
-      "charge":-1
+      "charge":197
     },
     "12":{
-      "refId":"common_shoes_01",
-      "count":1,
-      "charge":-1
-    },
-    "13":{
-      "refId":"common_pants_01",
-      "count":1,
-      "charge":-1
-    },
-    "14":{
-      "refId":"common_shirt_01",
-      "count":1,
-      "charge":-1
-    },
-    "15":{
-      "refId":"extravagant_shoes_02",
+      "refId":"ring_keley",
       "count":1,
       "charge":-1
     },
     "16":{
-      "refId":"common_pants_03_c",
+      "refId":"steel axe",
+      "count":1,
+      "charge":1129
+    },
+    "0":{
+      "refId":"steel_helm",
       "count":1,
       "charge":-1
     },
     "17":{
-      "refId":"common_shirt_05",
+      "refId":"steel_shield",
+      "count":1,
+      "charge":280
+    }
+  },
+  "inventory":{
+    "1":{
+      "refId":"p_restore_health_s",
+      "count":3,
+      "charge":-1
+    },
+    "2":{
+      "refId":"p_restore_fatigue_s",
+      "count":8,
+      "charge":-1
+    },
+    "3":{
+      "refId":"p_restore_health_c",
+      "count":6,
+      "charge":-1
+    },
+    "4":{
+      "refId":"steel_pauldron_left",
+      "count":1,
+      "charge":150
+    },
+    "5":{
+      "refId":"steel_gauntlet_right",
+      "count":1,
+      "charge":75
+    },
+    "6":{
+      "refId":"steel_gauntlet_left",
+      "count":1,
+      "charge":75
+    },
+    "7":{
+      "refId":"steel_helm",
+      "count":1,
+      "charge":150
+    },
+    "8":{
+      "refId":"steel_greaves",
+      "count":1,
+      "charge":150
+    },
+    "9":{
+      "refId":"steel_pauldron_right",
+      "count":1,
+      "charge":150
+    },
+    "10":{
+      "refId":"darkbrotherhood boots",
+      "count":1,
+      "charge":200
+    },
+    "11":{
+      "refId":"steel_shield",
+      "count":1,
+      "charge":300
+    },
+    "12":{
+      "refId":"imperial_chain_cuirass",
+      "count":1,
+      "charge":300
+    },
+    "13":{
+      "refId":"bk_falljournal_unique",
+      "count":1,
+      "charge":-1
+    },
+    "14":{
+      "refId":"sc_icarianflight",
+      "count":3,
+      "charge":-1
+    },
+    "15":{
+      "refId":"bk_bookdawnanddusk",
+      "count":1,
+      "charge":-1
+    },
+    "16":{
+      "refId":"bk_guide_to_balmora",
+      "count":1,
+      "charge":-1
+    },
+    "17":{
+      "refId":"ring_keley",
       "count":1,
       "charge":-1
     },
     "18":{
-      "refId":"ingred_bc_bungler's_bane",
+      "refId":"ingred_russula_01",
       "count":1,
       "charge":-1
     },
     "19":{
-      "refId":"ingred_russula_01",
-      "count":5,
+      "refId":"ingred_coprinus_01",
+      "count":1,
       "charge":-1
     },
     "20":{
-      "refId":"ingred_kwama_cuttle_01",
-      "count":1,
+      "refId":"ingred_hackle-lo_leaf_01",
+      "count":6,
       "charge":-1
     },
     "21":{
-      "refId":"ingred_racer_plumes_01",
-      "count":1,
+      "refId":"ingred_saltrice_01",
+      "count":3,
       "charge":-1
     },
     "22":{
-      "refId":"ingred_coprinus_01",
+      "refId":"ingred_netch_leather_01",
       "count":2,
       "charge":-1
     },
     "23":{
       "refId":"torch_infinite_time",
       "count":1,
-      "charge":-1
+      "charge":1125711872
     },
     "24":{
-      "refId":"gold_001",
-      "count":142,
-      "charge":-1
-    },
-    "25":{
       "refId":"key_addamasartusslaves_01",
       "count":1,
       "charge":-1
     },
+    "25":{
+      "refId":"gold_001",
+      "count":3551,
+      "charge":-1
+    },
     "26":{
-      "refId":"misc_com_bottle_12",
+      "refId":"key_drarayne_thelas",
       "count":1,
       "charge":-1
     },
     "27":{
       "refId":"iron sparksword",
       "count":1,
-      "charge":691
+      "charge":800
     },
     "28":{
-      "refId":"silver dagger",
+      "refId":"steel axe",
+      "count":1,
+      "charge":1200
+    },
+    "29":{
+      "refId":"iron halberd",
       "count":1,
       "charge":-1
     },
     "0":{
-      "refId":"darkbrotherhood boots",
+      "refId":"potion_local_liquor_01",
       "count":1,
-      "charge":197
+      "charge":-1
     }
   },
-  "spellbook":[],
+  "spellbook":[{
+      "spellId":"hearth heal"
+    }],
   "books":[],
   "factionRanks":[],
   "factionReputation":[],
   "factionExpulsion":[],
-  "mapExplored":["-2, -9","-2, -10","-2, -8","-3, -8","-1, -9"],
+  "mapExplored":["-2, -9","-2, -10","-2, -8","-3, -8","-1, -9","-3, -3","-3, -2","-2, -2","-4, -2","-3, -9","-4, -8","-4, -3","-4, -4"],
   "ipAddresses":["UNASSIGNED_SYSTEM_ADDRESS","71.232.157.81"],
   "customVariables":[]
 }

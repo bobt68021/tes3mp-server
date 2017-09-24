@@ -11,19 +11,19 @@
   },
   "packets":{
     "delete":[],
-    "actorList":[],
-    "position":[],
+    "spawn":[],
+    "scale":[],
     "place":[],
     "cellChangeTo":[],
     "statsDynamic":[],
     "cellChangeFrom":[],
     "trap":[],
-    "equipment":[],
-    "container":[],
-    "lock":[],
-    "doorState":[],
     "state":["397568-0"],
-    "scale":[],
-    "spawn":[]
+    "doorState":[],
+    "actorList":[],
+    "lock":[],
+    "position":[],
+    "equipment":[],
+    "container":[]
   }
 }

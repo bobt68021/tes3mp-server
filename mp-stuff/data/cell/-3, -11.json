@@ -3,24 +3,24 @@
     "description":"-3, -11"
   },
   "lastVisit":{
-    "Vakaria":1506052068,
+    "Vakaria":1506205483,
     "bob":1506049302,
-    "Konoroth":1506052150,
-    "Bob":1506052145
+    "Konoroth":1506205485,
+    "Bob":1506205484
   },
   "objectData":{
     "0-122":{
       "location":{
         "rotX":0,
-        "posY":-83325,
-        "posX":-17082.46484375,
+        "posY":-83710.890625,
+        "posX":-16509.5390625,
         "posZ":-883.53393554688,
-        "rotZ":-1.0557234287262,
+        "rotZ":-3.110422372818,
         "rotY":0
       },
       "refId":"slaughterfish",
       "stats":{
-        "fatigueCurrent":399.96231079102,
+        "fatigueCurrent":399.92370605469,
         "healthBase":23,
         "fatigueBase":400,
         "healthModified":23,
@@ -34,15 +34,15 @@
     "0-8":{
       "location":{
         "rotX":2.1424144506454e-005,
-        "posY":-81948.9375,
-        "posX":-18324.51953125,
-        "posZ":-867.30261230469,
-        "rotZ":-1.0390722751617,
+        "posY":-81927.40625,
+        "posX":-18380.75,
+        "posZ":-867.45446777344,
+        "rotZ":1.9425051212311,
         "rotY":0
       },
       "refId":"slaughterfish",
       "stats":{
-        "fatigueCurrent":399.96231079102,
+        "fatigueCurrent":399.92370605469,
         "healthBase":23,
         "fatigueBase":400,
         "healthModified":23,
@@ -52,6 +52,28 @@
         "healthCurrent":23,
         "magickaCurrent":10
       }
+    },
+    "0-2":{
+      "location":{
+        "rotX":-0.0014562346041203,
+        "posY":-81920.078125,
+        "posX":-22667.5234375,
+        "posZ":-677.38854980469,
+        "rotZ":-2.2060883045197,
+        "rotY":0
+      },
+      "refId":"dreugh",
+      "stats":{
+        "fatigueCurrent":399.92971801758,
+        "healthBase":60,
+        "fatigueBase":400,
+        "healthModified":60,
+        "fatigueModified":400,
+        "magickaModified":75,
+        "magickaBase":75,
+        "healthCurrent":60,
+        "magickaCurrent":75
+      }
     }
   },
   "packets":{
@@ -60,15 +82,15 @@
     "equipment":[],
     "place":[],
     "cellChangeTo":[],
-    "statsDynamic":["0-8","0-122"],
+    "statsDynamic":["0-122","0-8","0-2"],
     "cellChangeFrom":[],
     "trap":[],
-    "position":["0-8","0-122"],
+    "actorList":["0-122","0-8","0-2"],
+    "position":["0-122","0-8","0-2"],
     "lock":[],
-    "actorList":["0-8","0-122"],
     "doorState":[],
     "state":[],
     "scale":[],
-    "spawn":["0-8","0-122"]
+    "spawn":["0-122","0-8","0-2"]
   }
 }
