@@ -26,11 +26,11 @@
   },
   "location":{
     "cell":"Balmora, Guild of Fighters",
-    "posX":255.38999938965,
-    "posY":242.33200073242,
-    "posZ":133.99989318848,
-    "rotX":-0.000152587890625,
-    "rotZ":-3.1416797637939
+    "posX":188.16595458984,
+    "posY":110.96461486816,
+    "posZ":133.99963378906,
+    "rotX":0.26535391807556,
+    "rotZ":1.3505756855011
   },
   "stats":{
     "healthBase":75.400001525879,
@@ -38,7 +38,7 @@
     "magickaBase":30,
     "magickaCurrent":30,
     "fatigueBase":215,
-    "fatigueCurrent":160.29731750488,
+    "fatigueCurrent":209.49043273926,
     "bounty":0,
     "level":4,
     "levelProgress":1
@@ -107,14 +107,14 @@
     "Lightarmor":6,
     "Shortblade":0,
     "Speechcraft":0,
-    "Athletics":15.30016040802,
+    "Athletics":15.600167274475,
     "Mysticism":0,
     "Alchemy":2.5,
     "Mercantile":0,
     "Bluntweapon":0,
     "Longblade":5,
     "Unarmored":0,
-    "Acrobatics":26.24995803833,
+    "Acrobatics":30.449947357178,
     "Heavyarmor":15,
     "Destruction":0,
     "Alteration":0,
@@ -196,131 +196,136 @@
       "charge":-1
     },
     "4":{
+      "refId":"p_restore_fatigue_q",
+      "count":4,
+      "charge":-1
+    },
+    "5":{
       "refId":"steel_pauldron_left",
       "count":1,
       "charge":150
     },
-    "5":{
+    "6":{
       "refId":"steel_gauntlet_right",
       "count":1,
       "charge":75
     },
-    "6":{
+    "7":{
       "refId":"steel_gauntlet_left",
       "count":1,
       "charge":75
     },
-    "7":{
+    "8":{
       "refId":"steel_helm",
       "count":1,
       "charge":150
     },
-    "8":{
+    "9":{
       "refId":"steel_greaves",
       "count":1,
       "charge":150
     },
-    "9":{
+    "10":{
       "refId":"steel_pauldron_right",
       "count":1,
       "charge":150
     },
-    "10":{
+    "11":{
       "refId":"darkbrotherhood boots",
       "count":1,
       "charge":200
     },
-    "11":{
+    "12":{
       "refId":"steel_shield",
       "count":1,
       "charge":300
     },
-    "12":{
+    "13":{
       "refId":"imperial_chain_cuirass",
       "count":1,
       "charge":300
     },
-    "13":{
+    "14":{
       "refId":"bk_falljournal_unique",
       "count":1,
       "charge":-1
     },
-    "14":{
+    "15":{
       "refId":"sc_icarianflight",
       "count":3,
       "charge":-1
     },
-    "15":{
+    "16":{
       "refId":"bk_bookdawnanddusk",
       "count":1,
       "charge":-1
     },
-    "16":{
+    "17":{
       "refId":"bk_guide_to_balmora",
       "count":1,
       "charge":-1
     },
-    "17":{
+    "18":{
       "refId":"ring_keley",
       "count":1,
       "charge":-1
     },
-    "18":{
+    "19":{
       "refId":"ingred_russula_01",
       "count":1,
       "charge":-1
     },
-    "19":{
+    "20":{
       "refId":"ingred_coprinus_01",
       "count":1,
       "charge":-1
     },
-    "20":{
+    "21":{
       "refId":"ingred_hackle-lo_leaf_01",
       "count":6,
       "charge":-1
     },
-    "21":{
+    "22":{
       "refId":"ingred_saltrice_01",
       "count":3,
       "charge":-1
     },
-    "22":{
+    "23":{
       "refId":"ingred_netch_leather_01",
       "count":2,
       "charge":-1
     },
-    "23":{
+    "24":{
       "refId":"torch_infinite_time",
       "count":1,
       "charge":1125711872
     },
-    "24":{
+    "25":{
       "refId":"key_addamasartusslaves_01",
       "count":1,
       "charge":-1
     },
-    "25":{
+    "26":{
       "refId":"gold_001",
-      "count":3551,
+      "count":3651,
       "charge":-1
     },
-    "26":{
+    "27":{
       "refId":"key_drarayne_thelas",
       "count":1,
       "charge":-1
     },
-    "27":{
+    "28":{
       "refId":"iron sparksword",
       "count":1,
       "charge":800
     },
-    "28":{
+    "29":{
       "refId":"steel axe",
       "count":1,
       "charge":1200
     },
-    "29":{
+    "30":{
       "refId":"iron halberd",
       "count":1,
       "charge":-1

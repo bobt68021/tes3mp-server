@@ -26,11 +26,11 @@
   },
   "location":{
     "cell":"Balmora, Guild of Fighters",
-    "posX":282.82070922852,
-    "posY":255.99989318848,
-    "posZ":-122.00033569336,
-    "rotX":-0.000152587890625,
-    "rotZ":-3.1416797637939
+    "posX":188.1595916748,
+    "posY":-67.811302185059,
+    "posZ":196.14431762695,
+    "rotX":0.73807835578918,
+    "rotZ":0.84458708763123
   },
   "stats":{
     "healthBase":35,
@@ -38,7 +38,7 @@
     "magickaBase":280,
     "magickaCurrent":111,
     "fatigueBase":170,
-    "fatigueCurrent":165.84048461914,
+    "fatigueCurrent":168.70666503906,
     "bounty":0,
     "level":1,
     "levelProgress":6

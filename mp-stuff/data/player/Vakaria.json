@@ -26,40 +26,40 @@
   },
   "location":{
     "cell":"Balmora, South Wall Cornerclub",
-    "posX":11.47200012207,
-    "posY":-5.6119999885559,
-    "posZ":6.6420669555664,
-    "rotX":-0.000152587890625,
-    "rotZ":1.570611000061
+    "posX":-203.37950134277,
+    "posY":414.22482299805,
+    "posZ":261.99969482422,
+    "rotX":0.48020124435425,
+    "rotZ":2.9359889030457
   },
   "stats":{
-    "healthBase":44,
-    "healthCurrent":44,
-    "magickaBase":41,
-    "magickaCurrent":41,
+    "healthBase":48,
+    "healthCurrent":48,
+    "magickaBase":43,
+    "magickaCurrent":43,
     "fatigueBase":187,
-    "fatigueCurrent":91.423957824707,
+    "fatigueCurrent":187,
     "bounty":0,
-    "level":2,
-    "levelProgress":11
+    "level":3,
+    "levelProgress":6
   },
   "shapeshift":[],
   "attributes":{
     "Luck":40,
     "Agility":42,
     "Endurance":40,
-    "Personality":62,
-    "Speed":30,
+    "Personality":64,
+    "Speed":32,
     "Willpower":40,
-    "Intelligence":41,
+    "Intelligence":43,
     "Strength":40
   },
   "attributeSkillIncreases":{
     "Luck":0,
-    "Agility":2,
+    "Agility":0,
     "Endurance":0,
     "Personality":0,
-    "Speed":2,
+    "Speed":0,
     "Willpower":0,
     "Intelligence":0,
     "Strength":0
@@ -72,7 +72,7 @@
     "Mediumarmor":5,
     "Marksman":35,
     "Armorer":5,
-    "Security":35,
+    "Security":36,
     "Block":5,
     "Restoration":5,
     "Lightarmor":41,
@@ -80,8 +80,8 @@
     "Speechcraft":46,
     "Athletics":20,
     "Mysticism":5,
-    "Alchemy":15,
-    "Mercantile":31,
+    "Alchemy":17,
+    "Mercantile":32,
     "Bluntweapon":10,
     "Longblade":15,
     "Unarmored":6,
@@ -89,7 +89,7 @@
     "Heavyarmor":5,
     "Destruction":5,
     "Alteration":5,
-    "Sneak":38,
+    "Sneak":39,
     "Spear":5,
     "Illusion":5
   },
@@ -107,10 +107,10 @@
     "Lightarmor":24,
     "Shortblade":7.5,
     "Speechcraft":8,
-    "Athletics":8.720009803772,
+    "Athletics":10.420048713684,
     "Mysticism":0,
-    "Alchemy":5.5,
-    "Mercantile":23.700000762939,
+    "Alchemy":9.5,
+    "Mercantile":0,
     "Bluntweapon":0,
     "Longblade":0,
     "Unarmored":4,
@@ -512,7 +512,7 @@
     },
     "67":{
       "refId":"gold_001",
-      "count":2601,
+      "count":3101,
       "charge":-1
     },
     "68":{
@@ -531,56 +531,51 @@
       "charge":1
     },
     "71":{
-      "refId":"key_neranomanor",
-      "count":1,
-      "charge":-1
-    },
-    "72":{
       "refId":"probe_apprentice_01",
       "count":1,
       "charge":18
     },
-    "73":{
+    "72":{
       "refId":"probe_apprentice_01",
       "count":8,
       "charge":-1
     },
-    "74":{
+    "73":{
       "refId":"probe_journeyman_01",
       "count":1,
       "charge":24
     },
-    "75":{
+    "74":{
       "refId":"probe_journeyman_01",
       "count":1,
       "charge":-1
     },
-    "76":{
+    "75":{
       "refId":"silver dagger",
       "count":3,
       "charge":400
     },
-    "77":{
+    "76":{
       "refId":"ebony dart_db_unique",
       "count":3,
       "charge":-1
     },
-    "78":{
+    "77":{
       "refId":"chitin short bow",
       "count":1,
       "charge":500
     },
-    "79":{
+    "78":{
       "refId":"chitin arrow",
       "count":14,
       "charge":-1
     },
-    "80":{
+    "79":{
       "refId":"iron arrow",
       "count":166,
       "charge":-1
     },
-    "81":{
+    "80":{
       "refId":"iron dagger",
       "count":1,
       "charge":400
